@@ -1,0 +1,61 @@
+{
+  "id": 8849399,
+  "name": "State vs. Charles, a Slave",
+  "name_abbreviation": "State v. Charles",
+  "decision_date": "1847-01",
+  "docket_number": "",
+  "first_page": "292",
+  "last_page": "294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 338,
+    "char_count": 6498,
+    "ocr_confidence": 0.482,
+    "sha256": "4f65e99fbd6c64e8f97b9883e26e4cbabc9511ec5bb5705c2c90faab1f912b5d",
+    "simhash": "1:8da1a4ee268e9cb5",
+    "word_count": 1136
+  },
+  "last_updated": "2023-07-14T21:17:29.703459+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State vs. Charles, a Slave."
+    ],
+    "opinions": [
+      {
+        "text": "Douglas, \u2022 Chief Justice:\nThe prisoner in this case, was indicted at the'last October Term of the Circuit Court, holden in and for Hamilton county, under the. 39th section of the act 21st November, 1828, entitled \u201cAn Act relating to crimes and misdemeanors committed by slaves, free negroes and mulattoes,\u201d Duval\u2019s Comp. 224, for an assault with an intent to commit a rape on one Zilpha Pennington. The section of the act referred to, declares : \u201c\u2022 That if any negro or mulatto shall assault any white woman or child, with intent to commit a rape, such negro or mulatto shall be cropped, branded, or suffer death, at the discretion of the Court.\u201d Zilpha Pennington was a white woman, but the indictment did not so charge. A question was raised-in the Court below, upon the validity of the indictment on that ground; and the Judge who\" held the Court at that Term, entertaining a doubt upon that point, made a statement in writing of the question of law, and brought the same to this Court, pursuant to the provisions of the act of 6th February, 1841, entitled, An Act regulating Appeals and Writs \u2022of Error in criminal cases, by the first section of which it is enacted'., that from and after the passage of this act, no appeal or writ of error, or bill of exceptions to evidence, shall be entertained, allowed or granted to a defendant or defendants in criminal' prosecutions, in any of the Courts of this Territory; but if, in the trial of any criminal prosecution, the Judge before whom the same is tried, shall entertain a doubt upon any legal question arising in the case, then, and in that case, the said Judge, after verdict rendered, may continue the same, and shall, as soon- as convenient, make a statement in writing of the \u25a0question of law, and carry up, or transmit the same to the Court of Appeals, for its consideration and decision.\nUpon this state of the case, a question arises, Whether this Court has any jurisdiction of the matter? -The Constitution of this State.. Article 5, section 2, declares, that the Supreme Court, except in cases otherwise directed in this Constitution, shall have appellate jurisdiction only. This is not one of the excepted cases. Is it a- case in which this Court is called upon to exereise appell.ate power ? Here is no final order, judgment, or decree of the Court below, from which an appeal could be taken, or writ of error prosecuted; and the statute expressly provides, that there shall be no such order, judgment, decree, appeal, or writ of error, but when the Judge of the Court, who may be trying such a cause, sha.ll entertain a doubt upon any legal question, authorises him, after verdict and before judgment, to continue the case and send up a statement of the point of law, that it may be decided in the Court above. If the Court were to consider and decide it, the question not having been before decided, the action \u25a0of the Court would be an exercise, rather of original jurisdiction, than of appellate power. Whatever power the late Court of Appeals, in reference to which the act was passed, may have possessed in such cases, this Court, upon mature consideration, is of opinion that it has no jurisdiction of a case thus brought up.\nThis is a case of highly penal character; and that circumstance, together with the fact, that the law recognizes no other method for bringing up a criminal case, caused the Court to hesitate and weigh the matter well, before it declined to take jurisdiction of it. But, it will be perceived, that, if the Court has jurisdiction of a matter thus brought up, it would be competent for the General Assembly to pro-\u00bb vide by law, that, if in the trial of any civil case, the Judge who tries the same, shall entertain a doubt upon any point of law arising in it, either upon the pleadings, reception, or rejection of testimony, instruction given, Or asked and refused to be given to a jury, or any other legal question, such judge, after verdict and before judgment, may continue the same, make a statement of the point of law on' which the doubt arose, and certify it to this Court for its consideration and decision thereon; thus, making this tribunal a Court for the trial of all original questions of law-arising in the Circuit Courts. No one, it is believed, would seriously contend that this Court could take cognizance of such questions so presented. The question of jurisdiction, as was remarked by Judge Baltzell, in pronouncing the opinion of the Court in the case of Stewart and Preston, at the last Term, on the motion to dismiss, is always a delicate one; and the most prudent and safe course for a Court of dernier resort, where any doubt about the power exists, is deemed to be, to decline to act. The exercise of doubtful powers, by a Court of the last resort, is always extremely dangerous, and tends to excite alarm and distrust. If this, therefore, were a doubtful question, that fact would fully justify us in dismissing the proceeding ; but, after having bestowed upon it the most deliberate consideration, we do not deem it such.\nLet the case, therefore, be\" dismissed; and the papers transmitted to the Clerk of the Court below.\nPer Curiam,",
+        "type": "majority",
+        "author": "Douglas, \u2022 Chief Justice:"
+      }
+    ],
+    "attorneys": [
+      "Carmack & Baker, for Defendant."
+    ],
+    "corrections": "",
+    "head_matter": "State vs. Charles, a Slave.\nBy the Constitution of the State, the jurisdiction of this Court being appellate oply, so much of the act of the Legislature of the Territory\u2019of Florida, approved 6th February, 1841, entitled \u201c An Act regulating Appeals and Writs of Error in criminal cases/\u2019 as enables a Judge, having a doubt upon a legal question arising in the case at the trial below, to continue the case, and make a statement in writing of the question of law, and transmit the same to the Court of Appeals, for its consideration and decision, and directs the Judges of the Court of Appeals, without delay to decide the same, is inoperative; and this Court has no jurisdiction of cases brought up under said act.\nThis case was brought up from the County of Hamilton, under the act of the' Territory of Florida, approved 6th February, 1841, entitled \u201cAn Act regulating Appeals and Writs of Error in criminal cases,\u201d \u2014 the presiding Judge, his Honor Judge Hawkins, having continued the case and granted a certificate of a doubt upon a legal question which arose at the trial in the Court below, and transmitted the same to this Court for its decision.\nA motion was- made to dismiss the case, on the ground that this Court being appellate' only, had no jurisdiction of such cases. Attorney General, for State.\nCarmack & Baker, for Defendant."
+  },
+  "file_name": "0292-01",
+  "first_page_order": 332,
+  "last_page_order": 334
+}

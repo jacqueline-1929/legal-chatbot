@@ -1,0 +1,59 @@
+{
+  "id": 8849234,
+  "name": "John Miller and Bryan Croom, Appellants, vs. Frederick Hoc, Survivor, &c.",
+  "name_abbreviation": "Miller v. Hoc",
+  "decision_date": "1847-01",
+  "docket_number": "",
+  "first_page": "197",
+  "last_page": "197",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 595,
+    "ocr_confidence": 0.534,
+    "sha256": "15823c37d774d4820218274057db5dac057a0987c090947197f230c9ff9ac6f4",
+    "simhash": "1:4edd5208b1886759",
+    "word_count": 101
+  },
+  "last_updated": "2023-07-14T21:17:29.703459+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Miller and Bryan Croom, Appellants, vs. Frederick Hoc, Survivor, &c."
+    ],
+    "opinions": [
+      {
+        "text": "Hawkins, Justice;\nThis case must be governed by the decision of the Court in the preceding case, as the same points are involved in it; the pleadings seem substantially the same, and the record shows the same errors committed in this case as in the one, just decided.\nIt is therefore ordered, adjudged, and decreed, that the judgment be reversed, and that this cause be remanded to the Court below for further proceedings, in accordance with the views contained in the opinion in the other case between the same parties.",
+        "type": "majority",
+        "author": "Hawkins, Justice;"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Miller and Bryan Croom, Appellants, vs. Frederick Hoc, Survivor, &c."
+  },
+  "file_name": "0197-01",
+  "first_page_order": 237,
+  "last_page_order": 237
+}

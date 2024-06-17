@@ -1,0 +1,109 @@
+{
+  "id": 8849329,
+  "name": "The Territory of Florida, for use of Wilkins C. Smith, surviving partner of Holloman & Smith, vs. William H. Redding, Elias E. Blackburn, Needham Bryan and Little Berry Parker",
+  "name_abbreviation": "Territory of Florida ex rel. Smith v. Redding",
+  "decision_date": "1847-01",
+  "docket_number": "",
+  "first_page": "242",
+  "last_page": "244",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "4 McCord 113",
+      "category": "reporters:state",
+      "reporter": "McCord",
+      "case_ids": [
+        8857412
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/scl/15/0113-01"
+      ]
+    },
+    {
+      "cite": "1 Wash. Rep. 31",
+      "category": "reporters:state",
+      "reporter": "Wash. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 John. 437",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129839
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/3/0437-01"
+      ]
+    },
+    {
+      "cite": "9 Mass. 114",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2029748
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/9/0109-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 279,
+    "char_count": 5768,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 6.742197641245626e-08,
+      "percentile": 0.4086467975546065
+    },
+    "sha256": "09a1626097f18eba1210a09e15ecbbdd470677a7761689e3e706ea5b28bc847d",
+    "simhash": "1:56d5746ab3118030",
+    "word_count": 979
+  },
+  "last_updated": "2024-02-27T22:35:40.164291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Territory of Florida, for use of Wilkins C. Smith, surviving partner of Holloman & Smith, vs. William H. Redding, Elias E. Blackburn, Needham Bryan and Little Berry Parker."
+    ],
+    "opinions": [
+      {
+        "text": "BaIiTzel, Justice:\nIt is an established rule of pleading that \u201cif the plaintiff by his replication show that he has no cause of action, there shall be judgment, though the bar be defective, for the Court will form their judg-ment from the whole record.\u201d Arch. PI. & Ev. 240.\nThe replication of plaintiff to a plea by defendant of non damni-ficatus to debt on bond of Sheriff, sued as administrator by virtue of his office, assigns for breach, that while the said Redding was Sheriff and administrator ex officio of James K. Holloman deceased, he the said Redding received as such administrator as aforesaid, divers large sums of money and divers large quantities of goods and merchandize which he should have paid over and delivered to said Wilkins C. Smith as surviving partner of said Holloman.\u201d\nTo this there was a demurrer, and we are of opinion it was rightfully sustained by the Court below. The design of the replication, as we conceive, is to show that as administrator of the deceased partner, the Sheriff had received this money and these goods and \u25a0chattels. If so, the replication shows no cause of action in plaintiff.\nOn the death of a partner, the money, goods, and merchandize of the firm belong to the surviving partner, who is sole owner, and alone at law entitled to sue and be sued for them. Gow on Part. 143. The Sheriff as administrator obviously could not release or discharge an account against the partnership, nor had he the right to interfere with the affairs of the firm in any way, except to obtain the intestate\u2019s share of the partnership property from the surviving partner after the settlement of the debts. He had no better right to meddle with these assets or effects than other property of the plaintiff; and plaintiff has no better right to sue him on his official bond than if the administrator had disturbed him in the possession of any property of his own. But there is another view of this subject entirely conclusive, without resting on this point.\nAdmitting that the Sheriff as administrator, was liable for this money and these assets, his securities on the administration bond are only liable after judgment of a court fixing the liability against him as administrator. 9 Mass. 114. 3 John. 437. 1 Wash. Rep. 31. 4 McCord 113.\nFor these reasons the judgment is affirmed with costs.",
+        "type": "majority",
+        "author": "BaIiTzel, Justice:"
+      }
+    ],
+    "attorneys": [
+      "A. E. Maxwell, for Plaintiff in error.",
+      "Long & Walker, for Defendants."
+    ],
+    "corrections": "",
+    "head_matter": "The Territory of Florida, for use of Wilkins C. Smith, surviving partner of Holloman & Smith, vs. William H. Redding, Elias E. Blackburn, Needham Bryan and Little Berry Parker.\nOn the death of a partner, the moneys, goods, and merchandize of the firm belong to the surviving partner, and a Sheriff as administrator ex officio of the deceased partner, has no right to collect, discharge or meddle with the partnership property in any way, except to obtain the deceased partner\u2019s share after the settlement of the debts.\nA suit cannot be maintained by a surviving partner against a Sheriff, as administrator ex officio of the deceased partner, and his securities, on his official Bond, for the moneys, goods, and merchandize belonging to the firm, collected and received by him as such administrator.\nThe securities of a Sheriff who is administrator ex officio, are only liable on his administration bond after the judgment of a court fixing the liability against him as administrator.\nError to Jefferson Circuit Court. This case was decided at the Spring Term, 1846 \u2014 Elis Honor Judge Macrae presiding.\nDebt on the official bond of William H. Redding as Sheriff of Jefferson county, instituted against defendants in the late Superior Court of the Territory of Florida. \u2014 Plea non damnificatus.\nReplication assigned as a breach of the bond, \u201cthat while the said William H. Redding was Sheriff of the county of Jefferson and administrator ex officio of James M. K. Holloman as aforesaid, he the said William H. Redding, received as such administrator as aforesaid, divers large sums of money, and divers large quantities of goods and merchandize, which he the said Redding should have paid over and delivered to said Wilkins C. Smith as surviving partner of the said James M. K. Holloman, to wit, the sum of one thousand ' dollars, which the said Redding, though often requested so to do, wholly refused and neglected to pay and deliver the same, whereby the said Wilkins C. Smith, hath been greatly damnified, &c.\u201d\nTo this replication defendants demurred, \u201c because they the said defendants say, that if the said William H. Redding did take charge and receive divers large sums of money, and divers large quantities of goods and merchandize, while he the said William H. Redding was administrator ex officio of the estate of James M. K. Holloman, and which goods, money and merchandize, he the said William H. Redding should have paid over and delivered to the said Wilkins C. Smith as surviving partner of the said James M. K. Holloman\u2019; that the statute did not require him the said William H. Redding to receive said sums of money and quantities of goods, as administrator ex officio on the estate of James M. K. Holloman; and the said defendants say that they are not liable to an action of debt upon the said William H. Redding\u2019s Sheriff\u2019s Bond for any use, waste, or detention of money, goods, or merchandize belonging to Wilkins C. Smith, surviving partner of James M. K. Holloman, deceased. And the said Elias E. Blackburn, Needham Bryan, and L. B. Parker further say that the last aforesaid defendants are not liable to an action at law for any reception, or management of the money, goods and merchandize of the said plaintiff by the said William H. Red-ding, administrator as aforesaid.\u201d\nThe Court sustained the demurrer, and judgment was entered for defendants.\nA. E. Maxwell, for Plaintiff in error.\nLong & Walker, for Defendants."
+  },
+  "file_name": "0242-01",
+  "first_page_order": 282,
+  "last_page_order": 284
+}

@@ -1,0 +1,165 @@
+{
+  "id": 8849282,
+  "name": "Bryan Croom vs. Joseph Swann, administrator of John Shaw",
+  "name_abbreviation": "Croom v. Swann",
+  "decision_date": "1847-01",
+  "docket_number": "",
+  "first_page": "211",
+  "last_page": "218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "20 John. Rep. 186",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wend. Rep. 185",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003293
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/1/0185-01"
+      ]
+    },
+    {
+      "cite": "2 Murph. Rep. 245",
+      "category": "reporters:state",
+      "reporter": "Mur.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Murph. Rep. 138",
+      "category": "reporters:state",
+      "reporter": "Mur.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Mass. Rep. 197",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2026946,
+        2026923
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/10/0199-01",
+        "/mass/10/0203-01"
+      ]
+    },
+    {
+      "cite": "1 John. Rep. 274",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2128308
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/1/0274-01"
+      ]
+    },
+    {
+      "cite": "18 John. Rep. 352",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        8710630
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/18/0352-01"
+      ]
+    },
+    {
+      "cite": "14 John. Rep. 79",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376250
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0079-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. Rep. 8",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Mis. 496",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Mass. 186",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 676,
+    "char_count": 17484,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 9.460267343666861e-08,
+      "percentile": 0.5174573884423378
+    },
+    "sha256": "ed82fc77f49672e945288346f63560ae32324e69c981b06fde5db98a1d5bfd46",
+    "simhash": "1:fb8f74e09b5ab558",
+    "word_count": 3111
+  },
+  "last_updated": "2024-02-27T22:35:40.164291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bryan Croom vs. Joseph Swann, administrator of John Shaw."
+    ],
+    "opinions": [
+      {
+        "text": "Hawkins, Justice:\nThis was an action of assumpsit brought to recover the amount of a judgment recovered against Swann by John Shaw, in an action of false warranty on a horse sold by John Oliver, in his life time to Shaw, said horse having been sold by Oliver as the agent of Croom, the appellant.\nIt would appear by the record that Croom authorised Oliver to sell the horse, but there is no testimony to show that he authorised Oliver to warrant him as to soundness. The price of the horse was one hundred and fifty dollars, and Robert L. Harrison, one of the witnesses, testifies that he heard Croom say, that he had received full compensation from Oliver, for the proceeds of sale of the horse, though he does not recollect that Croom stated the amount.\nShaw, it would seem by the testimony, was aware that Oliver sold the horse only as agent of Croom \u2014 that Shaw kept the horse for a time, and then sold him to Penny, who sold him to another person.\nShaw subsequently instituted suit against Swann, the administrator of Oliver, the present plaintiff, declaring in assumpsit on a warranty of the soundness of the horse, and obtained \u00e1 judgment and a verdict for $152 10 damages, and his costs. The suit from which the present appeal is taken, was brought to recover said damages and costs, and on the trial in Leon Superior court, the record of the judgment &c. of the original suit of Shaw vs. Swann, adm\u2019r. was offered in evidence by the plaintiff, the appellee \u2014 objected to by Croom, and the objection overruled by the court. The defendant (Croom) in the court below, offered no evidence, but moved the Court to instruct the jury that said record was not' sufficient or legal evidence of any authority by Croom to Oliver to make the warranty; that the record of the recovery aforesaid, without parol evidence of said warranty, and of such authority to warrant was not sufficient to entitle the plaintiff to recover. \u2022\nThat there was not evidence for the jury to find a verdict for the plaintiff. The court below instructed the jury that the record was not inter alios, and was legal and competent evidence in the suit.\n2d. That the record, together with the parol evidence of the receipt of the purchase money, and the letters of administration, were sufficient to enable plaintiff to recover, and that it was not necessary to entitle the plaintiff to recover, to. prove .by evidence',aliunde the said record, that the defendant authorised Oliver to warrant the horse to Shaw, or. that Oliver did warrant him.\nTo these instructions, the defendant excepted, and a bill of exceptions framed thereupon. Verdict for the plaintiff Swann, and judgment, from which appeal was taken to this Court.\nThe propriety of the decision of the court below, rests mainly on the question whether the record of the judgment recovered by Shaw against Swann, the appellee, was properly admitted in evidence against Croom, the appellant.\nAs contended for by the appellee, the record indubitably proves the amount which the administrator of Oliver had paid to Shaw; but . this is not enough to justify a judgment against Croom. If Croom had been a party or privy to the record or suit pending between Shaw and Swann, then it would have been available to the extent of the facts contained in it; but there was no privity. The suit was brought by Shaw against Swann, who declined to shield himself by the agency of his intestate, as he could and should have done, had Oliver acted in compliance with the orders or instructions of Croom.\nOliver in this case seems to have acted as the special agent of Croom, and not as a general agent. He had, as would appear by the evidence, a power to sell, but there is nothing to show that he had authority to warrant.\nMr. Chitty says, \u201c the general rule is, that a person who has contracted in the capacity of an agent, and that fact is known at the time to the person with whom he contracts, such agent is not liable \u25a0to an action for the non-performance of the contract, even for a deceitful warranty.\u201d 1 Chitty on PI. 38, 7 Am. Ed,\nAnd- where a person undertakes to do an act as the agent of another, if he does not possess authority from the principal therefor, or if he exceeds the authority delegated to him, he will be responsible therefor to the person with whom he is dealing, for or on account of his principal.- Story on Agency, 264.\nIt is contended for by the appellee, that though there may be no evidence, that Croom authorised Oliver to warrant the horse as to soundness, yet that Croom\u2019s acceptance of the proceeds of the sale of the horse, and his remark \u201c that he was the proper person to lose itthat is, the price of the horse, amounted to an adoption of the act of his agent, even if he exceeded his authority, and acted without or against the orders of Croom.\nThere is no' doubt, that .an express ratification is not necessary to charge the principal, and a subsequent assent may be inferred from circumstances, which the law considers equal to express ratification. Livermore on Agency, 44. 2 Mass. 186. So where a principal enjoys the fruits and benefits of the act of his agent, he shall not be allowed to say afterwards the act was- illegal. 3 Mis. 496. Bell es. Cunningham, 3 Peters\u2019 81.\nBut there is no evidence to show that Croom was aware, that his agent had made any warranty as to the soundness of the horse when he .accepted the proceeds of the sale, and in the absence of this testimony, Ms receipt of the money only extends to a ratification of the sale of the horse, whilst the remark before set forth would seem only to convey the idea of an admission of moral obligation in ignorance of his legal rights, and upon which no action could rest, unless there had been a previous legal liability.\n' But admitting the argument of the counsel for appellee, that Croom had rendered himself liable by the assumption or ratification of the act of his agent, to whom is he responsible ? Clearly to Shaw, and not to his agent, unless that agent could show, that a deception had been practiced upon him by his principal; and that in pursuance of orders or instructions, he bona fide makes false representations as to the goods of his principal, and is compelled to pay damages to a purchaser on account thereof. Story on Agency, 339. In such a case Croom would have been directly amenable to Swann, but no such case is shown'. \\ ' '\nIf Shaw had acquired a right of action\u2019 against Croom, the latter had the privilege of asserting and\u2019 maintaining his legal rights in an action against himself, but not through his agent; and he is not to be reached in this indirect, circuitous and sinuous manner. \u201c No one in general,\u201d say, Mr. Starkie, \u201ccan be bound by a verdict or judgment, unless he be a party to the suit, or be in privity with the party, or posses the power of making himself a party.\u201d He has no power of cross examining witnesses, of adducing evidence in furtherance of his rights, &c. 1 Starkie on Ev. 191.\nNo one can be affected, still less concluded by any sentence, decree or judgment in any suit or legal proceeding, to which he was not actually or in consideration of law, a privy. Ib. 181, 1300 ; and besides, he loses the benefit of appeal.\nThe reason of these rules are founded in justice and morality; for besides these, reflection must at once suggest the extreme danger at all times of fraud and collusion between the agent and purchaser.\u2014 Every consideration of propriety, public policy and sheer justice, forbid the idea, that Croom is to be estopped by the record introduced in the court below, and denied the privilege of making de-fence of his legal rights.\nIf otherwise, the grossest injustice might arise. For instance, the record in this case shows that the horse was resold by Shaw. Where are the proceeds of this sale ? If an action had been maintained successfully against Croom by Shaw for damages, the former would have been entitled to an allowance or discount for such proceeds, as the verdict would have been for the difference between a sound and an unsound horse.\nWith these views, we are of opinion that the record in the case of Shaw vs. Swann was inadmissible as evidence further than as already stated, that there should have been evidence aliunde the record to show that Oliver was authorised by Croom to warrant the horse, and that he did warrant him in accordance with such instructions. If he, Oliver, warranted the horse hona fide, and fraud had been practiced upon him by Croom, he could look to Croom for redress. ' That Shaw having purchased of Oliver with a full knowledge of his agency, he should have proceeded, against Croom directly, and not against Oliver\u2019s administrator.\nWe think the court below erred in not giving the instruction prayed for by defendant in the court below, and also, erred in giving the instructions it did on the trial of the case.\nIt is therefore ordered, adjudged and decreed, that the judgment of the Court below be reversed, and that a venire de novo be awarded.\nPer Curiam.",
+        "type": "majority",
+        "author": "Hawkins, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Long & Walker, for Appellant:",
+      "CarmacJc & Baker, for Appellee :"
+    ],
+    "corrections": "",
+    "head_matter": "Bryan Croom vs. Joseph Swann, administrator of John Shaw.\nAn agent cannot maintain an action against his principal to recover the amount paid by him on a judgment obtained'against him for a false warranty of a horse, without showing that he was authorised by his principal to warrant the soundness of the horse so sold.\nThe record of a judgment, obtained by the purchaser of a horse in an action for false warranty against the agent who sold, is not, in an action by the agent against the principal to recover the amount paid on such judgment, evidence of authority from the principal to the agent to warrant. Evidence of such authority and of a warranty made in accordance therewith should be aliunde such record.\nReceipt by the principal of the proceeds of the sale of a horse, sold by an agent, is not evidence of authority to the agent to warrant; nor is it a ratification of a warranty, unless there be evidence to show that at the time of receiving the proceeds, he knew that a warranty had been given by the agent.\nWhere an agent to sell a horse makes a false warranty, the principal is liable to the purchaser and not to the agent, unless he can show that a deception had been practiced on him by his principal, and that in pursuance of orders or instructions, he Iona fide made the false representations, and is compelled to pay damages to the purchaser on account thereof.\nAppeal from the late Superior Court of the Territory of Florida, for Leon county.\nHis Honor, Judge Baltzell, having been counsel for appellant, in the Court below, did not sit in this case.\nJohn Oliver, in his life-time, as agent of appellant, sold to one John Shaw a horse. Shaw afterwards sued appellee as administrator of Oliver, in an action for a false warranty, and recovered a judgment against him. It was to recover from appellant, the owner of the horse sold, the amount paid by him, as administrator of Oliver, on this judgment, that this action was brought. Appellee filed his declaration in assumpsit, at the Spring Term, 1842.\nPlea, non-assumpsit.\n. At the trial in the court below, appellee offered in evidence the depositions of witnesses showing that Oliver was in the employ of Croom at the time he sold the horse to Shaw, and that he was au-thorised by appellant to sell; that appellant had received from Oliver the proceeds of'the sale; that appellant had said that he expected that appellee would have to refund to Shaw, but that he was the proper person to lose it, if any one did; and that Shaw sold the horse to one John Penny, and Penny to one Jesse Byrd. Appellee also gave in evidence the letters of administration to him: Also, the record of the judgment in the shit by John Shaw against him, as administrator of John Oliver, obtained in Gadsden county,. and of the execution thereon, with the receipt of Shaw for the full amount from appellee endorsed.\nAppellant moved the Court to overrule said record as being incompetent and inadmissible evidence in this ease, and' as being inter alios ; which motion the Court overruled.\nAppellant offered no evidence, but asked the Court to instruct the jury that said record was no.t sufficient evidence of alleged warranty by Oliver, or evidence of any authority by Croom to Oliver to make said warranty:\nAlso, that the record of the recovery aforesaid, without parol evidence of said warranty and of such authority to warrant, was not sufficient to entitle the plaintiff to recover.\nAlso, that there was not evidence for the jury to find a verdict for the plaintiff.\nThe Court refused the said motions, and instructed the jury:\u2014\n1st. That said record was not inter alios, and' was legal and competent evidence in this suit.\n2d. That said record, together with the parol evidence of .the receipt by defendant, from Oliver, of the purchase money, and the letters of administration, are sufficient to enable the plaintiff to recover ; and that it was not necessary, to entitle the plaintiff to recover, to prove by evidence aliunde the said record that defendant anthorised Oliver to warrant the horse to Shaw, or that Oliver did warrant him.\nDefendant excepted to the decision and instructions of the Court, and tendered his Bill of Exceptions.\nThe jury returned a verdict for plaintiff and defendant appealed.\nLong & Walker, for Appellant:\nThe judgment in this case ought to be reversed, because the record in the case of Shaw vs. Swann, was improperly admitted in evidence before the jury \u2014 Croom against whom it was offered, being a stranger to the same. Phil. Ev. 222, 232 \u2014 3 Johns. Rep. 8, 4 Day Rep. 431 \u2014 2 Hen. & Mum. 139 \u2014 14 John. Rep. 79, 81\u2014 18 John. Rep. 352.\nThere is no proof that Croom authorised Oliver to warrant the horse sold to Shaw by the latter, and a principal can only be bound \u25a0by such acts of his agent as are authorised. Newland on Con. 178. Nor is there any proof that Croom authorized his agent, Oliver, to misrepresent the soundness of the horse, or to commit any other fraud. On. the contrary, the declaration against Oliver is exclusively upon the breach of warrantry. Indeed, it is obvious that Oliver cannot be permitted to aver that he committed a fraud by the instructions of his principal, for which he has been punished by the person upon whom he committed it, and that therefore he must recover from his principal the amount of the recovery 'had against himself; because in law no man can plead his agency in excuse for an. act of terpitude'or criminality. An agent is not botad to obey the unlawful instructions of his principal. Paley on Agen. 89 \u2014 Camp. 395.\nIf Croom did not warrant the soundness of the horse, (or autho-rise his agent to do so,) and was not acquainted with the alleged unsoundness previous to the day of sale \u2014 (and there is no evidence of either of these, facts in the record) \u2014 he cannot be liable to any one. 2 Kent\u2019s Com. 479. Co'. Lit. 102, (a.) 2 Bl. Com. 452. 2 East Rep. 314. 1 John. Rep. 274 . 4 Randall\u2019s Rep. 5. 2 Dallas R^. 91. 10 Mass. Rep. 197. 1 Peter\u2019s Rep. 317.- 1 Murph. Rep. 138. 2 Murph. Rep. 245. 4 Hayw. Ten. Rep. 227. 2 Cain\u2019s Rep. 49. 1 Wend. Rep. 185. 20 John. Rep. 186.\nBut, if for the sake of argument, dt be admitted, that Oliver did warrant the soundness of the horse, and the horse was unsound, still when it -is seen from the proof, that Oliver stated to the purchaser (Shaw,) that he was only acting as the agent of Croom in making the sale and warrantry, it cannot be denied that these facts were sufficient, to exempt the agent, Oliver, from responsibility. In such a case Croom, the principal, was only liable. 1 Chitty PI. 24. 2 Pr. Wms. 278. 1 East, 507. 2 Kent\u2019s Com, 629, 630. Story\u2019s Agency 260.\nNow the question arises, is it competent for Shaw to put this liability upon Croom without permitting him to contest it ? If Shaw may sue Oliver, when he is not liable, and obtain a judgment for breach of warrantry, and then Oliver may offer the record of that judgment as conclusive evidence that Croom authorised him to warrant, and was therefore liable over to him, it would be tantamoun to rendering a judgment against a man without making him a party to the suit. This dilemma seems to arise under this view of the subject, viz: If Oliver had authority to warrant, from Croom, then he was not liable, and the record offered in evidence proves a falsehood, and should not be exhibited against Croom. If, on the contrary, Oliver had no authority from Croom to warrant, (and his liability depended upon this fact,) then it is at once absurd and unjust to say that he can extract from Croom the consequences of his own wilful and unauthorised act.\nFinally, but supposing the horse to have been falsely warranted by' Oliver, with or without authority from Croom, did Shaw pursue such a course as to entitle him to sue and recover for the same ? We think the proof answers this question in the negative. In such a case the purchaser, so soon as he ascertains the unsoundness of the property, ought to return the same to the veiidor, and propose to rescind the contract, or he will be presumed to acquiesce in the quality of the goods. 2 Kent\u2019s Corn. 480. 1 Campl. N. P. Rep. 19.0.\nIf therefore, on any of these grounds the recovery by Shaw was erroneous, against Oliver, what b.etter reason can be offered why the record of that wrongful recovery shall not be used in ^jjjdence to snstain the present suit? Can one gross error constitute any very conclusive reason for committing another ? Surely not.\nCarmacJc & Baker, for Appellee :"
+  },
+  "file_name": "0211-01",
+  "first_page_order": 251,
+  "last_page_order": 258
+}

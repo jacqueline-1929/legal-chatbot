@@ -1,0 +1,239 @@
+{
+  "id": 8849382,
+  "name": "Chancey Ward and Charles P. May, Partners, &c., trading as Ward & May, for the use of Joseph F. Crosby, vs. Jabez B. Bull and Richard A. Shine",
+  "name_abbreviation": "Ward v. Bull",
+  "decision_date": "1847-01",
+  "docket_number": "",
+  "first_page": "271",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "16 Mass. 449",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2035185
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/16/0371-01"
+      ]
+    },
+    {
+      "cite": "6 Mass. 63",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 John. 46",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2132774
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/6/0046-01"
+      ]
+    },
+    {
+      "cite": "1 Wend. 134",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003218
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/1/0134-01"
+      ]
+    },
+    {
+      "cite": "3 Miss. 405",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Yeates, 576",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6777712,
+        6777761
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/1/0575-01",
+        "/yeates/1/0576-01"
+      ]
+    },
+    {
+      "cite": "11 Pick. 1",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2016125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/28/0001-01"
+      ]
+    },
+    {
+      "cite": "1 J. J. Marsh. 3",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Day, 299",
+      "category": "reporters:state",
+      "reporter": "Day",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Munf. 407",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "case_ids": [
+        2094067
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/15/0158-02"
+      ]
+    },
+    {
+      "cite": "4 Port. 186",
+      "category": "reporters:state",
+      "reporter": "Port.",
+      "case_ids": [
+        8497604
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/port/4/0186-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 280",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015741,
+        2015653
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/13/0280-02",
+        "/wend/13/0280-01"
+      ]
+    },
+    {
+      "cite": "1 Call, 567",
+      "category": "reporters:state",
+      "reporter": "Call",
+      "case_ids": [
+        2094978
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/5/0205-01"
+      ]
+    },
+    {
+      "cite": "4 Bibb. 180",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "case_ids": [
+        6397508
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/7/0180-01"
+      ]
+    },
+    {
+      "cite": "1 Root, 162",
+      "category": "reporters:state",
+      "reporter": "Root",
+      "case_ids": [
+        6758205
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/root/1/0162-01"
+      ]
+    },
+    {
+      "cite": "6 John. 100",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Cranch, 126",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1068,
+    "char_count": 25490,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 1.39044379367438e-07,
+      "percentile": 0.6426924890215607
+    },
+    "sha256": "074259d76edac4d1b1875a29f184472996bb2125df5f36414c05477a95b1a26c",
+    "simhash": "1:64a74c87091ed7e4",
+    "word_count": 4659
+  },
+  "last_updated": "2024-02-27T22:35:40.164291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chancey Ward and Charles P. May, Partners, &c., trading as Ward & May, for the use of Joseph F. Crosby, vs. Jabez B. Bull and Richard A. Shine."
+    ],
+    "opinions": [
+      {
+        "text": "Douglass, Justice:\nThis is an action of assumpsit, and was brought up from the Cir-Court of Leon county by Writ of Error. The declaration contains two counts:\nFirst \u2014 Money lent and advanced, money paid, laid out and expended, and money had and received.\nSecond \u2014 For use and occupation. Plea, non assumpsit.\nA Jury, to assess the damages, was waived by the parties to the suit by their respective attorneys, and the facts were submitted to the Court for its decision, pursuant to the provision contained in the first section of the act of November 21st, 1829, \u201c To amend an act regulating judicial proceedings.\u201d Duval\u2019s Compilation, page 105. The plaintiffs having introduced their testimony rested.\nWhereupon the defendants, by their counsel, demurred to the evidence \u00f3f the plaintiffs; and the plaintiffs, by their counsel, having put in their joinder to the demurrer, \u201c all the matters of law and of fact were submitted to the Court for its decision.\u201d The demurrer brought upon the record the following proof:\n1st. A lease, by one William Wyatt, to the plaintiffs in error, which is as follows, viz.:\n\u201c This Indenture, made this the 10th day of February, A. D. eighteen hundred and forty, between William Wyatt of Leon county, Territory of Florida, of the one part, and Ward & May, merchants, in the county and Territory aforesaid, of the other part, witnesseth :\u2014 That the party of the first part, has rented and. leased to the parties of the second part, the new brick store, south of F. Towle\u2019s building, on one hundred foot street, at four hundred dollars for the first year, and four hundred and fifty dollars 'for the three succeeding years, with the refusal of the same, after the expiration of that time, at a fair rent: the party, of the second, to have possession by the first of May next, when the rent is to commence. The parties'of the second part are to pay the party of the first part, his heirs and assigns, the aforesaid rent in quarterly instalments. The party of the first part, is to counter and shelve with drawers the said store, as per plan annexed. It is further understood, that whatever other improvements the parties of the second part may make in the said store, shall be at the expense of the second party; but with the understanding and agreement, that the party of the first part shall, on the removal of the parties of the second part, pay the cost of all such improvements, or allow them to be removed by the second parties.\u201d The only additional proof which the record discloses, is that, \u201c on 1st May, 1843, plaintiffs paid $450, in Union Bank bills, worth 33J cents in the dollar in good funds, in advance for rent up to 1st May, 1844 : on the 25th May, 1843, the store was destroyed by fire: on the 15th of July, 1843, the defendants commenced the erection of a new building on the lot and site where the store stood, which being completed, was on the 5th of December, 1843, re-leased by defendants to a third person, at the rate of $325 per annum, in good funds, and the rent received by them to 1st May, 1844, and afterwards; the plaintiffs being out of the country after the fire. The defendants offered the plaintiffs to pay them, or refund them rent from the 5th December, 1843, at the same rate which they had received, say, $450 per annum, in Union Bank funds, of the value of 33J cents per dollar.\u201d\nThe Court, having duly considered all the matters of law and fact referred to it, proceeded to render judgment as follows, to wit:\n\u201c It appears to the Court, that the matters shewn in evidence by the plaintiffs, are sufficient in law to maintain the issue joined herein ; and it being by consent of parties referred to the Court to assess the damages which the plaintiffs had sustained, by reason of the matter shewn in evidence as aforesaid; it is therefore considered by the Court, that the plaintiffs do recover from the said defendants the sum of sixty dollars and forty-two cents, the damages which the said plaintiffs have sustained by reason of the matter shewn in evidence as aforesaid, and their costs by them about their suit in this behalf expended, and the said defendants in mercy,\u201d &c.\nWhereupon the said defendants, by their attorney, filed their Bill of Exceptions, &c. ' .\nThe plaintiffs in error took no exceptions; but being dissatisfied with the amount of their judgment, have brought it up to this Court for revision. \u2022 No errors are in form assigned. The counsel for the plaintiffs in error, however, insists that the Court errfed in not giving judgment for a larger amount ,\u2022 and this, they contend, is entirely a question of law, and ask the Court to give such judgment as the Court below ought to have given. That a party may bring a writ of error to reverse his own judgment for error, if injustice has been done him in the Court below, is well settled. Ingalls vs. Lord, 1 Cowen, 240. Sarles vs. Hyatt, ibid, 253. Capron vs. Van Noorden, 2 Cranch, 126. Teal vs. Russell, 2 Scammon, 32. Johnson vs. Jebb, 3 Burr, 1772. Tidd\u2019s Pr. 1134. Bissell vs. Marshal, 6 John. 100. Nor is there any doubt that the Court may proceed to give such judgment as the Court below ought to have given, if the case is properly before us for that purpose. Duval\u2019s Comp. 109, sec. 5. 2 Bac. Abr.\n503. But this Court can only reverse a judgment for error in law, not for error in fact. Upon a writ of error, containing error in fact and error in law, the Court ordered the error in fact to be stricken out, and reversed the judgment for error in law. Lewis vs. Lawson, 1 Root, 162. In the case of Neilson vs. McCabe, 9 Missouri Reps. 48, and Von Pheel vs. The City of St. Louis, ibid, 49, the Supreme Court of Missouri held, that the decision of the Circuit Court, sitting as a Jury, will not be set aside, unless,the record shows, that the Circuit Court was called upon to decide some question of law, and its decision was wrong. Those cases were followed by that of Young vs. Kelly, in the same Court, where the same principle was maintained, and the Court said: \u201c In a case like this, where the Court discharges the duty of a Jury, as well as its' own peculiar duty, it seems more particularly necessary that the appellant should call oh the Court to decide the law arising on the faGts detailed in evidence. No such decision being made, this Court feels no disposition to disturb the verdict of the Court sitting as a Jury.\u201d In the case of Reynolds vs. Rogers, 5th Hammond, 169, the Court held, that where matter of fact was submitted to the decision of the Court, neither party could sustain a writ of error, and the cases of Dovenor vs. Swafford, 1 Scammon, 166, Gilmore vs. Ballard, ibid, 252, and Stringer vs. John & Wm. Smith, ibid, 295, are all in point. An appeal, or writ of error, (the Court said, in the cases of Gilmore vs. Ballard, and Dovenor vs. Swafford,) if recognized in such cases, would be equivalent to a new mode of obtaining a new trial. It undoubtedly would be so, and we are not disposed to countenance this mode of practice. In the case last cited, the Court remarked: \u201c It is of importance that innovations on the rules of proceeding should not be sanctioned, and that those which are found, after long use and practice, to be best adapted to the decision of causes, should be adhered to.\u201d A proposition founded in good sense and reason, and to which we. most fully assent. The correct rule in the cases tried by the Court sitting as a Jury, would seem to be, that where facts alone, are submitted, and the Court has only to weigh the evidence and determine accordingly, no writ of error lies: and where mixed questions of law and fact are presented to the Court for its decision, no writ of error lies, unless the Court is called upon to decide questions of law, or such question of law necessarily arises out of the facts, and is distinctly presented to the Court upon them, so that the decision of the point'of law will decide the merits of the cause, and the decision of the Court is wrong. In this case, the facts were distinctly presented to-the Court by the demurrer to the evidence, and several questions of law were incidentally involved in determining the rights of the parties upon them, as connected with the facts of the case; but no particular question involving the whole, or to any great extent the merits of the cause, was prominently and distinctly presented to the Court by counsel, nor did any such necessarily arise out of the evidence, so as to make a decision upon it the subject of a writ of error. The remedy of the plaintiff, if.the verdict was too low, was a motion for a new trial in the Court below, upon which all these incidental questions might have \u25a0been heard. And here we might with propriety stop; but this case has been pressed upon the Court by the counsel for the plaintiffs, with a zeal and earnestness which evinces his confidence in the justice of his clients\u2019 claim to a reversal of'this judgment, and is deserving of further notice from us; and we, therefore, proceed to give our views briefly upon the merits.\nThe only question of law expressly raised, and distinctly presented to the Court in this case, was decided in favor of the plaintiffs in error, and a writ of error will not lie in favor of the party applying. Sterrett vs. Creed, 2 Hamm. 343. Tribue vs. McKiterick, 4 Bibb. 180. Hammond vs. Buttell, 1 Call, 567. Hughes vs. Stickney, 13 Wend. 280. Henry vs. Smoot, Minor, 18. Carry vs. The State, 4 Port. 186. Indeed, the plaintiffs in error do not complain of that,decision, but only that the amount found by the Court to be due to the plaintiffs, and for which judgment was rendered in the Court below, is too small. In order to determine the correctness of this proposition, and ascertain the rights of the plaintiffs in error in this suit, we must look to the nature of the action, and the circumstances of the case as disclosed by the evidence.\nThe declaration, as before stated, contains two counts; one, for money had and received, and the other, for use and occupation. We will reverse the order, and enquire, first, whether the plaintiffs are entitled to recover on the last count. This count is founded on the statute of 11 Geo. 2., chap. 19, sec. 14, by which it is enacted, that fl it shall be lawful for a landlord, where the agreement is not by deed, to recover a reasonable satisfaction for the lands and tenements, or hereditaments, held or occupied by the defendant in an action on the case, for the use and occupation of what was so held and enjoyed; and if in evidence, on the trial of such action, any parole demise, or any agreement (not being by deed,) where a certain rent is reserved, shall appear, the plaintiff in such action shall not, therefore, be non-suited, but may make use thereof, as an evidence of the quantum of damages to be recovered.\u201d Chitty on Contracts, 105 \u2014 106. 1 Chitty\u2019s PI. 338.\nAssumpsit for the use of land by permission and assent of the plaintiff, or an express promise to pay a certain sum, or, in general, to pay to the plaintiff\u2019s satisfaction for such use, dies, at common law, independent of the statute. Eppes vs. Call, et ux. 4 Hen. & Munf. 161. And it has also been held to lie on an implied promise : Sutton vs. Mandeville, 1 Munf. 407. Gunn vs. Scovie, 4 Day, 299.\u2014 Logan vs. Lewis, 1 J. J. Marsh. 3. But, to support an action for use and occupation, a demise must be shewn, or some evidence given to establish the relation between the parties of landlord and tenant. Stoddert vs. Newman, 7 Harr. & John. 251. Boston vs. Binney, 11 Pick. 1. Pott vs. Lester, 1 Yeates, 576. Folian vs. Baisman, 3 Miss. 405. Featherstonehaugh vs. Bradshaw, 1 Wend. 134.\u2014 Smith vs. Stewart, 6 John. 46. Story on Contracts, p, 398, sec. 656. There is nothing in the evidence in this case, which shews a contract, either express or implied, on the part of the defendants in er-f ror to pay rent for the premises in question, to the plaintiffs in error. They only offered to return the amount of the rent which they had received for the time that intervened between the 5th of December, 1843, and the first day of May, 1844. The plaintiffs in error cannot, therefore', recover on that count, but must fall back upon their count for money had and received, to recover back the rent which they had advanced. There is no evidence either of money lent or advanced, or money paid, laid out, or expended. The charge for money had and received, is therefore the only one on which the plaintiffs in error can rest their case. This kind of equitable action, to recover back money which ought not in justice to be kept, it is said, is very beneficial, and therefore much encouraged. Chitty on Contracts, 182. It lies only for money, which \u201cex aequo et bono\u201d, the defendant ought to refund. 3 Tucker\u2019s Blackstone, 163. 1 Chitty\u2019s'. Pl. 341. Chitty on Contracts, 182. By bringing this action the tort is waived. 2 Smith\u2019s leading cases, page top 131, side 89.\u2014 What then, are the plaintiffs in error entitled to recover on this count? A lessee who covenants to pay rent and repair, with express exception of casualties by fire, is liable upon the covenant for rent, though the premises are burned down and not rebuilt by the lessor after notice. Story on Contracts, page 376, sec. 605. Towle vs. Bate, 6 Mass. 63. Izon vs. Garton, 5 Bing. New Cases, 501. Balfour vs. Weston, 1 Term R. 311. And a Court of Equity will not restrain him from suing for the rent. Leeds vs. Cheetham, 1 Sim. 145. Haltzapffel vs. Baker, 18 Ves. Jr. 117. Balfour vs. Weston. 1 T. R. 312. At the trial of this last case, Buller, Justice, read the following note of the case of Pindar against Ainsley and Rut-ter, at the sittings at. Westminster, after Michaelmas Term, 1767. That was an action of ejectment, by the tenant against the landlord, to recover the possession of some houses which had been burned down during the term, and rebuilt by the landlord. In the lease there was an express covenant, on the part of the tenant, to pay rent; but he had paid none subsequent to the time of the fire. Lord Mansfield, before whom the cause was tried, said, the consequence of the house being burned down is, that the landlord is not obliged to rebuild, but the tenant is obliged to pay rent during the whole term. The premises consisted of houses only, and the fire has made them quite useless. In March, 1763, the premises were worth nothing; but the landlord, if he had insisted on the rigor of the law, might have obliged the plaintiff to pay the rent for nothing, during the remainder of the term. Then the plaintiff would have been glad to have delivered up the premises ; therefore he left it to the jury to consider, whether it was not to be presumed that the tenant had abandoned the lease at the time of the fire, and, accordingly, the defendant had a verdict. So, in the cas\u00e9 before us: the store being burned down, the defendants in error were not bound to rebuild; but the plaintiffs in error were bound, by their express covenant, for the rent during the whole term; and although they had paid it in advance, had no claim to recover it back. On the 25th of May, the house was burned down- The premises, for aught that appears, consisted of the store only. From that time to the 5th of December, they were worth nothing. The landlords (the defendants in error,) might have laid by during the remainder of the term; in which case the plaintiffs in error would have lost their money entirely. . They would have had no claim to recover any part of it. The idea, that the defendants in error were bailors, and bound to keep the bricks and mortar (the rubbish left by the burning of the store,) in repair, as argued by the counsel'for the plaintiffs in error, seems to the Court a fallacy. On the contrary, if the defendants in error were bailors, the plaintiffs in error were bailees, and bound to take such care of the property as a prudent man would take of his own affairs. Story on Bailments, 8 \u2014 16. 1 Smith\u2019s leading cases, 100. 2 Jones on Bailments, 6 \u2014 110\u2014119. Tomkins vs. Saltworth, 14 Sarg. <fe Rawle, 775. It does not appear, however, that they took any care of it, or paid any regard to it after the fire. They were out of the country, and do not appear to have left any agent to attend to it. The bricks and mortar, so frequently spoken of at the hearing, were not the property of the lessees, nor could they have used them without the consent of the lessors. Upon the whole circumstances of this case, we think there was quite as strong'grounds for the Judge who tried this cause in the Court below, to presume that the defendants in error entered to rebuild the store by the assent of the plaintiffs in error, that they might have the benefit of the return of their rent they had paid from the time the new store should be completed, (as it was the only way in which they could get any thing,) as there was in the case of Pindar against Ainesly & Rutter, for Lord Mansfield to leave it to the jury to consider, whether the tenant had not abandoned the lease. It was insisted, however, on behalf of the plaintiffs in error, that they were entitled to all the rent of the new store for the tinje intervening between the 5th day of December, 1843, and the first day of May, 1844; but there is no proof as to the relative value of the old store and the new one. The latter may, for aught that appears, have been worth ten times as much as the former. This is an equitable action. We must look at the finding of the Court as though it had been the finding of a Jury, and presume that he took into consideration all the equitable circumstances which he might properly have left to a Jury to consider, had that mode of trial been adopted. There was no eviction in this case, for that can only be by title paramount. Bac. Abr. title Rent, 1. Saunders R. 204, n. 2. Ibidem, 322, n. a. 4 Kent\u2019s Comm. 462. 2 Jac. L. Diet. 444. There was no expulsion from the store, for it was gone. There was no actual expulsion from the ground on which it stood, for the lessees had left, not only the premises, but the country. There is no trespass \u2014 no tort, for that is waived by the bringing of this action. On the 5th of December, 1843, the new store was leased, and from that time the plaintiffs in error were entitled, upon the principles we have assumed, to a return of the rent they had paid, at the rate at which the defendants in error had received it. Until that time the premises, so far as rent was concerned, were valueless. The loss, must fall either upon the lessors, or lessees; and there is no more equity that the landlord should bear it, than the tenant. When the tenant (as in this case,) has expressly covenanted to pay rent, and when the landlord must bear the loss of the property destroyed, the calamity is mutual. 3 Kent\u2019s Comm. 467. The Court found what, under all the circumstances, appears to us to have been just and equitable ; and if error would lie in such a case as this, we should not be disposed to disturb the verdict.\nThe judgment of the Court below is affirmed with costs.\nPer Curiam.",
+        "type": "majority",
+        "author": "Douglass, Justice:"
+      }
+    ],
+    "attorneys": [
+      "S. Towle, for Plaintiffs in Error, contended :",
+      "L. A. Thompson* for Defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Chancey Ward and Charles P. May, Partners, &c., trading as Ward & May, for the use of Joseph F. Crosby, vs. Jabez B. Bull and Richard A. Shine.\nThis Court can only reverse a judgment for error in law.\nThe correct rule, in cases tried by the Court sitting as a Jury, would seem to be, that where facts alone are submitted, and the Court has only to weigh the evidence' and determine accordingly, no Writ of Erf or lies: and Where mixed questions of law and facts are presented to the Court for its decision, no Writ of Error .lies, unless the Court is called upon to decide a question of law, or such question of law necessarily arises out of the facts, and is distinctly presented to the Court upon them, po that the decision of the point of law will decide the merits of the cause, and the decision of the Court is wrong.\nTo support an action for use and occupation, a demise must be shown, or some evidence given to establish the relation between the parties of landlord and tenant.\nA lessee, who cov\u00e9nants to pay rent and repair, with express exception of casualties by fire, is liable upon the covenant for rent, .though the premises be burned down, and not re-built by the lessor after notice; and a Court of Equity will not restrain the lessor from suing for the rent.\nWhere the lessor re-builds before the expiration of the term, and leases to a third party, the lessee, who had paid his rent in advance, but had abandoned the lease after the destruction of the property, is entitled to recover back the rent so paid by him from the time of the second lease, and at the rate which the landlord had received from him.\nError to Leon Circuit Court.\nBy consent of parties, a Jury was waived, and this case, at the Spring Term of Leon Circuit Court, 1846, submitted to be tried by the Court \u2014 His Honor Judge Macrae, presiding.\nThe facts will be found in the opinion of the Court.\nS. Towle, for Plaintiffs in Error, contended :\nI. That a writ of error would lie in this case ; for although a Jury was waived at the trial below, and no questions of law appear to have been expressly raised, yet the amount of the jtdgment below, itself, shews what legal construction was put by the Court upon the facts, which facts are spread upon the record. If that legal construction was erroneous, this Court may correct it; that being a matter of law..\nII. The Court below erred in not giving judgment for a larger amount. It decreed, that the rent paid by the lessees in advance, should be refunded from the date at which the lessors re-let the premises to the new tenant; and not from the beginning of the current year, from the date of the fire, or from the dat\u00e9 of the landlord\u2019s reentry for the purpose of re-building. In this there was error, whatever view is taken of the facts. Shep.'Touch. 90. 21 Pick. R. 28.\n1. If the lease conveyed, as we believe it did, the land as well as the store, (.meaning store-house) then, the right of possession of the lot and of all erections thereon, vested in the lessees to the end of their term, only jto be divested by surrender or eviction. Baker vs. . Holtzapfell, 4 Taunt. 45. Same case, 18 Yes. 116. 16 Mass. 449. There was no surrender or eviction in this case. Chit, on Contr. 263. Baker vs. Holtzapfell, ubi supra. 2 Vern.112. The lessees became, in fact, the landlords, and entitled to demand from the original lessors the rents received by them from the new tenant, from the 5th December, 1843, to wit, $132 70, or the same amount as rent, under the count for use .and occupation \u2014 the tort being waived.\u2014 Bell vs. Sibbs,' 8 T. R. 327. Birch vs. Wright, 1 T. R. 378. 3 M. & Sel. 191. 1 Taunt. 44. 8 Bing. 43.\nBut admit there was a surrender: it took effect, not from the date of the new lease to the third party, but from the date of the fire, or, at latest, from the date of the lessors re-entry; and the lessees were entitled to a return of their rent from the commencement of the then current quarter, to wit, 1st May, which was the beginning of the year. Chit, on Contr. 261 \u2014 263\u2014569. Carr. J. in Briggs vs. Hall, 4 Leigh R. 484.\nAdmit there was an eviction: it took place on the 15th July, when the lessors re-entered to re-build, which they had no right to do. 4 Taunt. 45. And the result would be the same as if a surrender were made: the rent shouldbe refunded to the lessees\u2019from the beginning of the year.\n2. It may be contended, that the lease did not convey the land, but only the store, viz., \u201c the new brick store, on 100 foot street next,\u201d &c., and when that was destroyed the lease was ended. Admit this for the sake of argument. The store erected after the fire, complies in all respects with the description of that actually leased. It was \u201c the new brick store, on 100 foot street,\u201d &c. &c. It was to all intents the same store as that first leased; and the lessors are estopped by their deed, from contending otherwise. The lessees then, are entitled to the new store and its rent, and may recover in this action.\n3. It may possibly be contended, by the defendants in error, that \u201c store\u201d mearas only the building \u2014 the mere bricks and mortar \u2014 a mere room \u2014 the.destruction of which put an end to the lease. If but a mere room, a personal, chattel, the lease is a sort of bailment \u2014 a locatio rei. The bailor is bound to.keep the thing bailed in good repair'; (Story on Bail, 377) and failing to do so, to refund the rent from the date of the fire; or restore the thing, when repaired \u2014 Story on B. 376 \u2014 or its rents, &c.\nIn an equitable point-of view, the defendants in error have no claim for favor from the Court. By the original lease to the plaintiffs in error, they sold for an adequate price, the right,to use and possess the store and land till the 1st May, 1844. There is no justice in allowing them to retake possession of those-premises, violate their first contract, and then make a profit by their own wrong. The fact of their re-building, when not compelled to do so, entitles them to no favor. They built for the sake of the rent to accrue thereafter, as long as the building should stand. They should not be allowed to trench upon rents which they had already once sold, to wit, those prior to 1st May, 1844. On the other hand, the appellants having, as lessees, taken all risks; having, in any event, lost by the fire the use of the premises for a considerable time, have justice as well as law to support their claim.\nL. A. Thompson* for Defendants."
+  },
+  "file_name": "0271-01",
+  "first_page_order": 311,
+  "last_page_order": 321
+}

@@ -1,0 +1,283 @@
+{
+  "id": 8849391,
+  "name": "Orloff M. Dorman, vs. Robert Bigelow, Executor of Francis Richard",
+  "name_abbreviation": "Dorman v. Bigelow",
+  "decision_date": "1847-01",
+  "docket_number": "",
+  "first_page": "281",
+  "last_page": "291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Mass. 122",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Mass. 360",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Mass. 383",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2028545,
+        2028483
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/8/0320-01",
+        "/mass/8/0321-01"
+      ]
+    },
+    {
+      "cite": "7 Mass. 448",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1999575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/7/0373-01"
+      ]
+    },
+    {
+      "cite": "7 Wheat. 530",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1503015
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/20/0530-01"
+      ]
+    },
+    {
+      "cite": "6 Wheat. 264",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11730243
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/19/0264-01"
+      ]
+    },
+    {
+      "cite": "1 Hill, 256",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Pick. 260",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2037751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/36/0260-01"
+      ]
+    },
+    {
+      "cite": "8 Pick. 122",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013128,
+        2013241
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/25/0126-02",
+        "/mass/25/0126-01"
+      ]
+    },
+    {
+      "cite": "3 Hill, 584",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Mass. 137",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 John. 221",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137584
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/11/0221-01"
+      ]
+    },
+    {
+      "cite": "5 Mass. 358",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002241
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/5/0278-01"
+      ]
+    },
+    {
+      "cite": "10 Wend. 218",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2012907
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/10/0218-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 343",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018853
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0343-01"
+      ]
+    },
+    {
+      "cite": "15 Wend. 182",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2018878
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/15/0182-01"
+      ]
+    },
+    {
+      "cite": "8 John. 29",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134339
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/8/0029-01"
+      ]
+    },
+    {
+      "cite": "5 Cranch, 142",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        1446276
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/9/0142-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. 210",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129862
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/3/0210-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. 122",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Mass. 360",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 957,
+    "char_count": 25814,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 1.782806001402288e-07,
+      "percentile": 0.713726746231151
+    },
+    "sha256": "bfca0a32151e1c1ebc5d383a86641089f07a5bd45b7deb12ca0a32e9bb24e3e0",
+    "simhash": "1:ffc2cce20c0198af",
+    "word_count": 4557
+  },
+  "last_updated": "2024-02-27T22:35:40.164291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Orloff M. Dorman, vs. Robert Bigelow, Executor of Francis Richard."
+    ],
+    "opinions": [
+      {
+        "text": "Mackae, Justice:\nThis is an appeal from a judgment rendered by the late Superior Court of St. John\u2019s County, in an action of assumpsit brought by Robert Bigelow,' Executor of Francis Richard, deceased, against Or-loffM. Dorman, to recover from the latter, as endorsee, surety, and promisor, the amount of a promissory note alleged to have been executed by one Augustus W. Walker, to the plaintiff, for the hire of a slave, with the following endorsement, alleged to have been made by the defendant:\n\u201c I agree to stand security for the payment of the within amount.\nO. M. DORMAN.\u201d\nThe declaration contains five several counts. The first, charges defendant as endorser of a promissory note: the second, proceeds upon his promise and undertaking in writing, to pay the plaintiff the sum of $205, the amount of said note, when due, in c\u00f3nsideration that plaintiff would hire a slave to one Augustus W. Walker, for one year r. the third, charges the defendant upon his undertaking in writing, upon a like consideration, to stand security for the payment of said sum for said hire, when due: the fourth, is founded upon alike undertaking, in consideration that plaintiff had hired said slave as aforesaid and the fifth sets out; that defendant in consideration that plaintiff had hired said slave to said Walker, for said sum for one year, upon condition that said Walker should give his promissory note with good security, for the payment thereof made his endorsement in writing on the note so given by said Walker, whereby defendant promised to stand as security for the payment of said sum of money, being the consideration of the hire aforesaid. To this declaration the defendant pleaded the general issue; upon which plea issue was joined, and thereupon verdict and judgment were rendered for the plaintiff.\nNo bill of exceptions has been returned, or appears to have been taken and filed in this case, whilst the errors alleged by the counsel for the appellant, appear to be, exclusively based upon the note or instrument filed with the declaration, in the view taken by him of the legal character and effect of the endorsement thereon. Nor has an assignment of errors been regularly made and presented. Those, however, which have, by consent and with the leave of this Court, been informally presented in argument, are of the limited scope just montioned, and they appear to resolve themselves into two leading objections to the judgment below, to which alone we deem it proper to direct the attention of this Court; and in doing this, we do not, as will be shewn in the sequel, consider the determination of these points to be indispensable in making up our opinion and judgment upon the record before us.\nThe first, and main ground of error relied on is, that under the tenth section of the Statute of Frauds of the State of Florida \u2014 Duval's Comp. 206 \u2014 the appellant is not liable on account of the endorsement in question, for want of a consideration expressed upon the face of it, whereon to' predicate his alleged undertaking or agreement. In support of this ground, his counsel here assumes the position, that the tenth section referred to, demands the same interpretation as the fourth section of the Statute of Frauds of England \u2014 29 Ch. ii c. 8 \u2014 \u00bb on the same subject; and for a proper construction of these sections, in view of their application to this case, he cites the leading English and New York cases of Wain vs. Warlters, 5 East. 10, and Sears vs. Brinck, 3 Johns. 210.\nThe tenth section of the Statute of Frauds of this State, before men. tioned, provides, \u201c that no action shall be brought whereby to charge any Executor, &c., upon any special promise,\u201d &c., \u201cor whereby to charge the defendant, upon any special promise, to answer for the debt, default, or miscarriage of another person, or to charge any person upon any agreement made upon consideration of marriage,\u201d &c.9 \u201c or upon any contract for the sale of lands,\u201d &c., \u201c or upon any agreement that is not to be performed within the space of one year,\u201d &c., \u201cunless the agreement or promise upon which such action shall be brought, or some note or memorandum thereof, shall be in writing and signed by the party to be charged therewith, or by some other person by him thereunto lawfully authorized.\u201d The corresponding section of the English statute referred to, provides, \u201cthat no action shall be brought whereby to charge the defendant upon any special promise to answer for the debt, &e., of another person, &c., unless the agreement upon which such action shall be brought, or some memorandum or note thereof, shall be in writing,\u201d &c. The Statutes of Frauds, of most of the States, including New York, conform ex pressly to that of England. Those of Virginia and Tennessee correspond with the statute of Florida, to the extent above recited. \u25a0\nSupposing the case of Wain vs. Warlters at all applicable in the decision of the case at bar, an important preliminary question arises, Whether the decision in that case, is applicable to this, in view of the terms of the 10th section of our statute? \u2014 or, in other words, Whether the latter makes it essential to the validity of a written, promise to pay the debt of another, that it should express on its face the consideration on which it is based? In the case .of Colgin vs. Henly \u2014 6 Leigh\u2019s Va. R. 85 \u2014 it was the unanimous opinion of the Court, that under the Statute of Frauds of Virginia, the consideration need not be expressed in the written promise, but that it stood as at common law in that regard. This opinion is fully supported by that of the Supreme Court of the United States, pronounced by Ch. J. Marshal, in the case of Violett vs. Patton. 5 Cranch, 142 \u2014 451.\nThat the tenth section of our Statute of Frauds, in common with that of Virginia, differs in a material point from the 4th section of that of England, is sufficiently clear, not only from the reasoning used in the American cases just cited, but from that employed by several of the learned Judges in the case of Wain vs. Warlters. Upon this difference, indeed, the latter case seems mainly to have turned; for, in its decision, Lawrence, J., says: \u201c If the question had arisen on the first part of the clause, I conceive that it would only have been necessary that the promise should have been stated in writingbut, he adds, \u201c the statute going on further to say, that no person shall be charged, &c., unless the agreement, &c., be in writing, shews that the word agreement was meant to be used in a sense different from promise, and something besides the mere promise was required tobe stated.\u201d Le Blanc, J., says: \u201cI should have been as well satisfied, however, if recurring to the words used in the first part of the clause, they had used the same words again in the latter part, and said, unless the promise or agreement, &c., be in writing. But not having so done, I think we must adhere to the strict interpretation of the word agreement, which means the consideration for which, as well as the promise by which the party binds himself.\u201d And it may be fairly inferred, from the language of another of the Judges in that case, that he was of the same opinion. Now, it would appear, that what these Judges desired, or supposed that Parliament might have done, is, what our Legislature has accomplished intentionally. Our statute, certainly, does not mean to give validity to any promise because in writing, which would not have been valid at common law ; and, therefore, would not support one, without sufficient legal consideration, which must be averred, and may be proved at the trial by parol evidence, as heretofore required at the common law. As to the mischief which it was supposed the statute meant to prevent,- it is perhaps sufficient, in view of the ordinary routine of business transactions, that the promise to pay the debt of another should be in writing. It might be safely assumed that, in a very large majority of such cases, the written promise would be found to be sustained by a sufficient legal consideration, which it may be perhaps more proper to leave to parol proof at the trial, than to limit it by a rule, the strictness of which may lead to more fraud in pleading, than it would pre. vent in testimony. But were our statute an exact transcript from the English, or alike subject to the rule of construction laid down in Wain vs. Warlters, it appears that the decision in that case has not met with such universal favor, either in England or the United States, as to make it conclusive authority with this Court, as a precedent, indeed, it seems to have been received in England with considerable surprise and disfavor, as a new construction given to a statute which had been in operation upwards of a century, in support of which no former case was cited, either by counsel or the Judges, at the time it was decided; Lord Eldon has, in the Chancery Court, positively denied its correctness, and in one instance overruled it. In one case he says: \u201c There is a variety of authorities directly contradicting the case in King\u2019s Bench, which is a most important case in its consequences ; for the undertaking of one man for the debt of another, does not require a consideration moving between them.\u201d \u2022 And again, in another case he says: \u201cThe first objection, viz., that which Wain vs. Warlters was cited to support, is of great importance. Until that case was decided some time ago, I had always taken the law to be clear, that if a man agreed in writing to pay the debt of another, it was not necessary that the consideration should appear upon the face of the writing.\u201d Ex parte Minet, 14 Vesey, 189 \u2014 and exparte Gardom, 15 Vesey, 289.\nIt is true that the case of Saunders vs. Wakefield, 4 Barn. & Aid. 595, would seem to extend, whilst it recognizes the grounds taken in the case of Wain vs. Warlters; but the case of Jenkins vs. Reynolds, 7 Eng. C. L. R. 328, goes back to the grounds taken in the case of Wain vs. Warlters, referring to the technical import of the word agreement. The case of Egerton vs. Matthews, 6 East. 307, would appear too, to conflict with the leading case of Wain vs. Warlters, although the decision turned upon the 17th sec. of the English Statute of Frauds, in application to that case in which it was determined that a memorandum of a bargain for the sale of goods, signed by the party to be charged, would take the case out of the statute, although the consideration of the bargain was not expressed in the memorandum. A bargain is a contract or agreement between two parties, the one to sell, and the other to buy; and the consideration of a bargain would appear to be as indispensably a part of it, as it is of any other contract or agreement; and there would seem to be as much risk of perjury in proving the consideration of a bargain as of any other agreement, by parol evidence.\nIn New York, the decision in Wain vs. Warlters, is not only adopted in the case of Sears vs. Brinck, but generally; referring in later decisions to the express terms of the revised statutes, which require that the consideration of an agreement to pay the debt of another, must be expressed. Leonard vs. Vredenburg, 8 John. 29. Smith vs. Ives, 15 Wend. 182. Packer vs. Wilson, 15 Wend. 343. Rogers vs. Kneeland, 10 Wend. 218. But in the case of Leonard vs. Vre-denburg, Ch. J. Kent observed, that, \u201cHe had not been altogether satisfied with the decisions therein referred to,\u201d and adds further, \u201cthe present motion can be decided without disturbing them.\u201d\nIn Massachusetts, whose Statute of Frauds is' the same as that of England, the case of Wain vs. Warlters has been entirely overruled, not only in the case of Hunt vs. Adams, 5 Mass. 360, cited by the counsel for the appellee, but in other cases, particularly that of Parc - kard vs. Richardson \u2014 17 Mass. 122 \u2014 in which last case, Ch. J. Parker, in pronouncing the opinion of the Court, examines and controverts the English decision in question, with great ability and learning. In that opinion, he says: \u201c Until 1804, when Wain vs. Warl-ters was decided, there was no case in support of the' doctrine of that case, and that decision excited much surprise, both in England and in this country. Our statute is copied from the English, and has been in operation more than a century, and it never, until lately, has been doubted, that if one man, for a sufficient consideration, deliberately signed his name to a promise to pay the debt of another, it is a sufficient compliance with the statute, without any recital in writing, of the consideration upon which the promise is founded. Although some consideration must exist to give validity to such a promise, it is generally of a nature not to be disputed, and if disputed, has been proved by parol testimony. The consideration is seldom for the benefit of the party making it; forbearance to sue, and the like, being most frequently the consideration of such undertakings; and these being altogether for the benefit of the original debtor. This being the case, it would not enter into the imaginations of the parties to such a contract, that, unless the motives and considerations which led to it were down in writing, the agreement was void,\u201d\nIn the case of Sage vs. Wilcox \u2014 6 Conn. R. 81 \u2014 Ch. J. Hosmer, in delivering the opinion of the Court, comes also to the conclusion, after an able and elaborate review of the English and American cases on the subject, that the consideration of an agreement to answer for the debt of another, is not required by the Statute of Frauds of that State, to be in writing.\nThus, it appears that whatever view be taken of the Statute of Frauds of this State, it. is clear that under the 10th section thereof, a promise to pay the debt of another, made in writing .and signed by the party to be bound, is a sufficient compliance therewith, without any recital in the writing of the consideration upon which the promise is founded, it being competent for the plaintiff, having averred the consideration in such cases, to prove the same by parol testimony on the trial, as at the common law.\nBut the binding effect of the endorsement in question, does not depend upon the views just taken. On the contrary, it is manifest that the terms of this endorsement, in connection with those of the note or instrument declared on, take it out of the operation of the Statute of Frauds, giving it the most rigid construction that has been placed upon those of England or New York. It is clear that, in this case, the appellant is bound in virtue of this endorsement, the note in question furnishing a sufficient consideration to sustain the promise or agreement so endorsed, and this, whether the endorser be regarded as a joint and several maker of the note absolutely, or as a guarantor, undertaking for the payment thereof. The note and the endorsement being taken as one instrument, the nature of the consideration and promise are therefore sufficiently expressed in writing.' Story on Prom. Notes, s. 58. Hunt vs. Adams, 5 Mass. 358\u2014360. Bailey vs. Freeman, 11 John. 221. Rogers vs. Kneeland, 10 Wend. 218. Adams vs. Bear, 12 Mass. 137. Monroe vs. Durham, 3 Hill, 584. Baker vs. Briggs, 8 Pick. 122. Chaffer vs. Jones, 19 Pick. 260. Luqueer vs. Prosser, 1 Hill, 256. Douglas vs. Howland, 24. Wend. 35.\nThe next ground of error presented is, that there is no averment and proof of due diligence on the part of the appellee, in pursuing his debt against the principal in the promissory note. As to this objection, we deem it sufficient to remark, that notice to the payee is necessary in order to release the surety, and\u2019that nothing appears on the record to that effect, or otherwise sustaining the view thus taken. But, as we have intimated, this case presents itself upon the record in an aspect which might well dispense with the determination of the points set up by the plaintiff in error. There be\u2019ing no bill of exceptions, there is nothing to connect the note, upon which the alleged errors are grounded, with the declaration, so as to shew that the former presented the only testimony exhibited before the jury in support of the latter, or that the note was presented in evidence at all. It is merely recited in the declaration as a promissory note. The note, or a copy of it, is required to be filed with, and appended to the declaration by statute, perhaps for the purpose of enabling the.defendant the better to make his defence to the action; and it was in the option of the plaintiff to offer it in evidence or not, as he might deem it expedient; and unless it had been so presented, no notice could have been taken of it, as evidence on the trial below. It is therefore not deemed to be a part of the record submitted for the inspection of this Court, though it might have been made so by a bill of exceptions duly made up in the Court below, as we have hinted. Nor can it be properly brought before us through the, medium of an assignment of errors, however formally made. This is too obvious to require discussion. ,\nThis case is brought here by writ of error. This latter, or an appeal in the nature of it, is a proceeding in virtue of which a Superior Court examines a record, upon which a judgment was given in another Court inferior to it; and on such examination, to affirm or reverse the same. 6 Wheat. 264. 6 Cond R. 90. Peters\u2019 Digest, 131, s. 19. . And when the alleged error cannot otherwise appear upon the record, a bill of exceptions is necessary to that end. 7 Wheat. 530. 5 Cond. R. 334. Peters\u2019 D. 132, s. 2'l.\nIn 7 Mass. 448, it is laid down, that a note filed in a cause, as evidence in support of the plaintiff\u2019s action, or to prove his damages upon default, is not part of the record, and the Court cannot take notice of it upon a writ of error, on the ground that illegal evidence was admitted irt support of the action, or in assessment of damages. In further support and illustration of this doctrine, we may also refer to 8 Mass. 383, and 15 Peters, 129. In the latter case the Court held, that the note filed in the cause was not part of the record; that, therefore, that Court could not judicially know when the interest, in regard to which a question of error arose in the case, had commenced running. And it was further remarked, that this ground of error should, for the reason mentioned, have been brought before the Court below, by bill of exceptions setting out the note.\nIn the case before us, for aught that appears to the contrary, other proof besides the note in question, may have been presented on the trial below, and such as may have influenced or determined the verdict and judgment: and there is nothing to show, that such proof, if so presented, was inadmissible, or otherwise exceptionable in law. In the absence, therefore, of a bill of exceptions, showing the testimony exhibited, the presumption is, that there was full and adequate evidence before the jury, to warrant aiid support the verdict, under the declaration to which it is responsive.\nIn this view then, the only ground of error of which the appellant can avail himself upon the record and the pleadings, &c., thereby presented, would be, that the declaration of the plaintiff is wholly insufficient to maintain this action. As to this, it is sufficient to remark, that the second, third and fourth counts in the declaration, do not necessarily rest upon the evidence presented by the note filed. They are sufficient in themselves, if sustained by proof, to entitle the plaintiff to a recovery, and there is nothing to show that they were not so sustained before the jury. But it has not been attempted to argue, much less formally to set up as a ground of error, that the declaration is insufficient in any respect to support the verdict and judgment. Nor was any such exception taken to it in the Co\u00fcrt below, by demurrer or otherwise.\nUpon the whole therefore, we are unhesitatingly of the opinion, that there was no error in the judgment of the Court below in this case. It must, consequently, be affirmed with costs.",
+        "type": "majority",
+        "author": "Mackae, Justice:"
+      }
+    ],
+    "attorneys": [
+      "G. T. Ward, for Appellant.",
+      "J. & L. Branch, for Appellee :"
+    ],
+    "corrections": "",
+    "head_matter": "Orloff M. Dorman, vs. Robert Bigelow, Executor of Francis Richard.\nA. made a promissory note to pay B. a sum of money on a day certain, and C. endorsed thereon, \u201c I agree to stand security for the payment of the within amount.\u201d Held, in an action against C., that his undertaking, by the said endorsement, was not within the statute of frauds of this State, and that the action was maintainable against him.\nA promise to pay the debt of another, made in writing and signed by the party to be bound, but without expressing the consideration on which the promise is founded, is sufficient, and is not within the statute of frauds of this State.\nA surety cannot avoid his liability on the ground, that the payee did not use due diligence against the principal, without showing that he had given the payee notice to proceed against the principal, which he had disregarded.\nIn the absence of a Bill of Exceptions, showing the testimony exhibited in the Court below, the presumption is, that there was full and adequate evidence before the Jury, to warrant and support the verdict, under the declaration to which it was responsive.\nA note filed in a cause, but not connected with the declaration by a Bill of Exceptions showing that it had been given in evidence in the Court below, cannot be deemed a part of the record submitted for the inspection of this Court; nor can it be brought before this Court by an assignment of errors.\nA Bill of Exceptions is necessary, when the alleged error cannot otherwise appear on the record.\nAppeal from the Superior Court of the late Territory of Florida, sitting for the counties of St. John\u2019s and Musquito.\nJudge Douglas did not sit at the hearing of this case.\nAssumpsit on the following endorsement on a promissory note by Dorman, the defendant: \u201c I agree to stand security for the payment of the within amount.\u201d For the other facts, see the opinion of the Court. \u25a0\nG. T. Ward, for Appellant.\nJ. & L. Branch, for Appellee :\nThis was an action on a note made by A. W. Walker, payable to Robert Bigelow, Ex\u2019r., and guaranteed by appellant.\nThe appellant relies on the 10th section of our Statute of Frauds, (Duval\u2019s Gomp. 206) and pretends that, under that section, his promise was void, because the consideration was not expressed in writing. The English cases, even if they are to be considered as having settled the law in England, are not applicable here, where we have a statute essentially differing from the English Statute of Frauds. 29 Car. 2,'C. 3. Roberts on Frauds, 467. They, respectively, read thus:\u2014\nENGLISH STATUTE. STATUTE OF FLORIDA.\n<! Unless the agreement upon which \u2022\u201c Unless the agreement, or promise> such action shall be brought, shall be upon which such action shall be in writing.\u201d brought, shall be in writing.\u201d\nThe statutes are verbatim et literatim the same, except that the words, \u201c or promise,\u201d are inserted in ours. No one can doubt, on reading the two statutes and the English cases, that our statute was drawn by a lawyer, and that the word, promise, was introduced for the express purpose of meeting the difficulty which had arisen in the English Courts, and to obviate the rigid and inconvenient rule which the Court of King\u2019s Bench had felt itself constrained to adopt in Wain vs. Warlters \u2014 5 East. 10 \u2014 because of the failure to insert in the English statute, the words, \u201c or promise\u201d No case was ever more reluctantly sanctioned by the Courts even in England. Lord Eldon never approved it \u2014 Minet, ex parte, 14 Vesey, jr. 190. In this country, C. J. Parsons disapproved it \u2014 5 Mass. 360 \u2014 and C. J. Parker, after an elaborate examination, expressly refused to abide by it. 17 Mass. 122. The rigor and inconvenience of the rule were so universally complained of, that several of the United States, Florida of the number, have introduced the words, \u201c or promise,\u201d into their Statutes of Frauds, which exactly accomplishes what was intended by 29 Car. 2, C. 3.\nThe reasoning of the English cases is, that their statute having been drawn by C. J. Hale, (it is now known, however, that he did not draw it,) the words of it ought to have their technical signification given to them; and as the technical word agreement embraces the \u201c consideration for the promise, as well as the promise itself,\u201d it must.follow, that the consideration for the promise, as well as the promise itself, should be in writing. In Wain vs. Warlters, Lawrence, Judge, said: \u201cIf the question had arisen merely in the first part of the clause,\u201d that, is, where the word promise is used, \u201c I concur that it would only have been necessary that the promise should have been in writing.\u201d Le Blanc, Judge, said: \u201c It would have been better if the Legislature had used the words, \u2018 unless the promise or agreement, upon which the action is brought, shall be in writing,\u2019 \u2014 but not having done so, I think we must adhere to the strict interpretation of the word agreement; which means, the consideration for which, as well as the promise by which a party binds himself.\u201d So reasoned all the Judges, not only in that, but in all subsequent cases. '\u2022\nAs by the express terms of our statute, if the promise is in writing, it is sufficient: the reasoning can haye no force here. Yiolett vs. Patten \u2014 5 Craneh', 151 \u2014 was a construction by the Supreme Court of the U. S., of the Virginia statute, which is an exact copy of ours. The Court said, it was sufficient if the promise was in writing, and that the consideration need not be.\nThis is not a promise to answer for the debt of another. It is an original independent undertaking, concurrent and joint with that of the maker, and does not come under the Statute of Frauds. Hunt, Adm\u2019r. vs. Adams, 5 Mass. 360. Snively vs. Johnston, 1 Watts and Serg. 309. Story on Prom. Notes, 58, and notes."
+  },
+  "file_name": "0281-01",
+  "first_page_order": 321,
+  "last_page_order": 331
+}

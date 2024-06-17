@@ -1,0 +1,59 @@
+{
+  "id": 8849269,
+  "name": "Theophilus Beatty vs. Grant Scurry",
+  "name_abbreviation": "Beatty v. Scurry",
+  "decision_date": "1847-01",
+  "docket_number": "",
+  "first_page": "210",
+  "last_page": "210",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 210"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 379,
+    "ocr_confidence": 0.516,
+    "sha256": "b9bcdcb9758ffa5da20be862d577854e984c6374b36e693c57a3b59deedb988e",
+    "simhash": "1:324fdd3767616052",
+    "word_count": 64
+  },
+  "last_updated": "2023-07-14T21:17:29.703459+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Theophilus Beatty vs. Grant Scurry."
+    ],
+    "opinions": [
+      {
+        "text": "Baltzell, Justice:\nThe same questions arise and are presented in this cause as have -been decided to-day in the case from the same court, between Beat-iy and Ross, and for reasons there stated, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Baltzell, Justice:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Theophilus Beatty vs. Grant Scurry.\nAppeal from Jefferson Circuit Court. The facts of this case are similar to those of Beatty vs. Ross, decided at this Term."
+  },
+  "file_name": "0210-01",
+  "first_page_order": 250,
+  "last_page_order": 250
+}

@@ -1,0 +1,73 @@
+{
+  "id": 8849103,
+  "name": "The State vs. Richard K. Call",
+  "name_abbreviation": "State v. Call",
+  "decision_date": "1846-01",
+  "docket_number": "",
+  "first_page": "92",
+  "last_page": "94",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 92"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Howard, 22",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 310,
+    "char_count": 5200,
+    "ocr_confidence": 0.489,
+    "pagerank": {
+      "raw": 5.5533302068692e-08,
+      "percentile": 0.34944836552246866
+    },
+    "sha256": "42ecaf673709d3f7398f45f8b6bb71b379e1ef9aac8f7bf9ccc4c39941399ff2",
+    "simhash": "1:2d343ed26fa48348",
+    "word_count": 889
+  },
+  "last_updated": "2024-02-27T22:35:40.164291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. Richard K. Call."
+    ],
+    "opinions": [
+      {
+        "text": "Hawkins, Justice:\nThis case comes before the Court on bill of exceptions, signed by Samuel J. Douglas, late Judge of the Superior Court of the Ter- \u2022\u2022 sritory, stating the instructions he had gjven to the jury on the trial before him, and concluding as follows, \u201cto which,instructions given by the Court, the defendant\u2019s counsel excepted, and the Court- being desirous that the same might be heard before the- Court of Appeals of , this Territory, has signed and sealed this bill of exceptions.\u201d\nThe first question presented by the record for the consideration of the Court is, have they jurisdiction of the case.\nThe act of the Territorial Legislature passed in 1833, gave- the benefit of an appeal or writ of- erior to the Court- of Appeals of the Territory, front} all final judgments and sentences'of the Courts of the Territory. Acts 1833,-page 113.\u00bb . . ,\nThis law was expressly repealed by an act passed in 1841, declaring, that from and after the passage of this act, no appeal or writ of error, or bill of exceptions to evidence; should be entertained or allowed, or granted to a defendant, or defendants, in criminal prosecutions in any of the Courts of this Territory; but if in, the trial of any criminal prosecution, the Judge before whom the same is tried, shall entertain a doubt upon any legal question, arising in the case, then and in that case, the said Judge may continue the same, and shall as soon as convenient make a statement in writing.of the question of law, and carry up or transmit the same^ peals for its consideration and decision. Ac*\n- Tiie design of the Legislature is too clearli expressed : to occasion a doubt as to their intention.\nThe' certificate of the Judge neither state but expresses-, merely a desire to have the Court of Appeals. If the Legislature desig a -case, they have not so declared it.\nA question of this kind arose before the Court of Appeals of the State.of ^Mississippi, in which the following view was taken: \u201cIt is a general rule, that the Appellate Court can act only on the record from the Inferior Court, which must contain a case sufficiently certain in its character to enable this Court to act upon it Admitting that the powers of this Court are co-extensive with those possessed by the former Supreme Court, the doubts of the'Judge below, if any existed, being all that could give jurisdiction, are not properly certified'to this Court. It should clearly appear by the record, that the Judge entertained doubts as to the rule of decision, and for this reason, that he had adjourned the question on which he doubted, to this Court for its,decision.\u201d Caraway vs. Board, Police, Yazoo County, 1 Howard, 22.\nThe case ought rightly to have been presented to the Court, of Appeals of the Territory at' its last se'ssion, and the Judge of the Circuit Court finding it in the Court below, with the certificate of the Judge, did rightlyin having the papers transmitted to.this Court for its action. The Court having no jurisdiction of it, will have it remanded to the Circuit Court of the County, -where it was tried.\nIt is therefore considered by the Cpurt, that this cage be dismissed from the docket,;-and the papers be-remitted to the Circuit 'Court for the County of Wakulla, for further proceedings to be had therein, agreeably to law.",
+        "type": "majority",
+        "author": "Hawkins, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Attorney General, for the State.",
+      "Long & Wdker, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "The State vs. Richard K. Call.\nIn a criminal case, a certificate of the Judge who presided at the trial, which neither states nor intimates a doubt upon any legal question, but merely expresses a desire to have the cause heard before the Court of Appeals, is not sufficient, under the statute, to give this Court jurisdiction.\nThe defendant was indicted at the Spring Term, 1844, of the late Superior Court of the Territory of Florida for Wakulla county, for unlawfully erecting in the river St. Marks, a navigable water, course, a certain pier and obstruction, composed of wood and rock, and permitting the same to continue there ; whereby the navigation and free passage of the said river, it was alledged, was greatly obstructed and straightened.\nAt the trial, a bill of exceptions was prepared and tendered by the counsel for defendant, which was signed and sealed by the presiding Judge; he attaching thereto the following certificate:\n\u201c The Court being desirous that the same might be heard before the Court of Appeals of this Territory, has signed and sealed this bill of-exceptions.\u201d ,\nThe,defplidanty by.his' counsel, at the same term, filed his motion for a\u2018hew trial.\nAt the Fall-Term, 1845, of the Circuit Court, the motion for a new trial being renewed, the then presiding Judge made a full statement of the facts and evidence, and transmitted it to this Court, with the following certificate :\n\u201c The motion to set aside the verdict, and for a new trial, was renewed before me during the late Circuit; and concurring in the wish of my predecessor, that this case might be heard in an appellate Court; and \u201c entertaining doubts upon the legal questions\u201d arising in it, I have made this statement, and transmit the same to the Supreme Court, for its consideration and decision.\n\u201c At Chambees, Tallahassee, Dec. 26th, 1845.\u201d\nAttorney General, for the State.\nLong & Wdker, for the defendant."
+  },
+  "file_name": "0092-01",
+  "first_page_order": 132,
+  "last_page_order": 134
+}

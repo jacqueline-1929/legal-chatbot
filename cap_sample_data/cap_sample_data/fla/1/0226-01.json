@@ -1,0 +1,104 @@
+{
+  "id": 8849302,
+  "name": "T. Lane Betton, Trustee of Sarah Ann Betton, Claimant, vs. Jesse H. Willis and William P. Moseley, Plaintiffs in Execution",
+  "name_abbreviation": "Betton v. Willis",
+  "decision_date": "1847-01",
+  "docket_number": "",
+  "first_page": "226",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 226"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Mass. 471",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2004059
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/4/0412-01"
+      ]
+    },
+    {
+      "cite": "9 Pick. 496",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2058477
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/26/0505-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates, 312",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812585
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/yeates/2/0312-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 623,
+    "char_count": 14484,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 2.454858700363489e-07,
+      "percentile": 0.8047573429956727
+    },
+    "sha256": "2eae3de15faea770e21dd02974bf2a002ad7f2cc74a47a6c2fe8e93283734ac5",
+    "simhash": "1:801726c74a00fc23",
+    "word_count": 2585
+  },
+  "last_updated": "2024-02-27T22:35:40.164291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. Lane Betton, Trustee of Sarah Ann Betton, Claimant, vs. Jesse H. Willis and William P. Moseley, Plaintiffs in Execution."
+    ],
+    "opinions": [
+      {
+        "text": "Douglas, C. Justice :\nThis case was brought up by an appeal from the Circuit Court of Leon county.\nIt was commenced in the late Superior Court for that county, and is a collateral proceeding arising out of the cases of William P. Moseley and Jesse H. Willis, plaintiffs in execution, against the exe-eutors of the last will and testament of A. M. Gatlin, deceased, and was instituted under the ninth and and tenth sections of \u201c an act concerning executions,\u201d approved Feb. 17th, 1833. Duval\u2019s Compilation, page 10. The ninth section provides \u2014 \u201c That when any marshal, sheriff, or other officer shall levy on goods and chattels claimed by any other 'person than the defendant, such person may make oath that said property belongs to him; and it shall be the duty of the officer to postpone any further proce\u00e9dings under said levy until the right of property shall have been tried : Provided, the person claiming such goods and chattels, shall give bond with surety, to be approved by the marshal, sheriff, or other officer levy--ing the execution, payable to the plaintiff, in a penal sum of double the amount of the sum for which execution issued, conditioned to deliver said goods and chattels, upon demand of said officer, if the same shall be adjudged to be the property of the defendant in execution, and to pay the plaintiff all damages which the jury -4 on the trial of the right of property,\u2019 may find in his favor, if it should appear to the jury that such claim was interposed for the. purpose of delay.\u201d\nSection 10, provides, that wheh an execution has been levied, and a claim to the property interposed as aforesaid, it shall be the duty of the officer to return said execution to the next term of the Court whence it issued; together with such affidavit and bond; at which term a jury shall he sworn to try the right of property, \u201c and also, to give the plaintiff such damages, not exceeding twenty per cent, as may appear reasonable and right, in case of its appearing to the Jury that such claim was interposed for delay, and the court shall give judgment for the amount of damages so found.\u201d\nThe 9th section above recited was amended by \u201c an act to amend the law in reference to executions and attachments,\u201d approved 15th March, 1843, which provides, \u201cthat claim bonds, and replevin bonds, whether under execution or attachment, shall be for double the value of the property claimed, and not in double the amount of the execution or attachment.\u201d See acts of 1843, pages 41 and 42. In all other respects it remains as originally enacted.\nIt appears by the record sent up, that on the 25th day of April, A. D. 1844, the said William P. Moseley recovered a judgment in the said Superior court against the said Executors, dec. of Alfred M.' Gatlin, deceased, and that on the fourth day of the succeeding month of May, Jesse H. Willis recovered in the same court another judgment against the same Executors, and that on the 15lh day of the same month, an execution was issued on each of the same judgments, which on the next day were placed in the hands of the marshal of the Middle District of Florida, and that he on the 16th day of the same month, levied said executions upon certain negro slaves, -which were claimed by T. Lane Betton, the present appellant, as Trustee of Sarah. Ann Betton, \u201c under a deed of trust and in virtue of a marriage settlement between the said Sarah Ann and Tur-butt R. Betton.\u201d That the said T. Lane Betton gave bond to the marshal (as required by said 10th-section) in which bond the names of the slaves levied upon are stated, and' to which the appellant, T. Lane Betton, made oath in the following words, to wit: \u201cLeon, ss. T. Lane Betton, trustee 'of Sarah Ann Betton, being duly sworn, sayS, the within specified slaves and property, belong to him as trustee of said Sarah, being assigned to her as her dower, and being in litigation, and that the same is not subject to levy and sale under said execution within mentioned.\u201d \u25a0\nThis execution, affidavit, and bond were returned by the marshal, according to the requirements of the 10th section of the act first above mentioned, and afterwards, to wit, at a Superior Court for the county of Leon, continued and held at the court house in the city of Tallahassee, on Friday the ninth day of May, A. D. 1845, \u201c a jury was sworn to try the right of property,\u201d levied upon'by said plaintiffs in execution,\" who upon their oath' returned the following verdict, viz : \u201c We', the jury, find the property claimed to be the property of Alfred M. Gatlin, deceased, in the hands of Luke Lamb, executor, to be administered, and liable and subject to these executions.\u201d Upon which verdict, judgment was entered as follows, to wit: \u2014 \u201c Therefore it is considered by the Court, that the plaintiffs in execution may proceed to execute the levys made as aforesaid, on the property aforesaid, ascertained by the jury to be liable and subject to these executions, and that they recover against the said claimants their costs'by them about their defence expended, and the said claimant in mercy, &c.\u201d\nThe only error relied upon by the appellant is, that there is no issue in the case. And it is contended by them :\u2014\n1st, That without a formal issue joined, there was nothing for the jury to try, and that it was error to submit the matter to a jury without such an issue.\n2d, That it does not appear by the record that the said executions were returned by the marshal as required by the 10th section of the act first above cited.\n3d. That if the Court should be of the opinion that no formal issue was necessary, that at least the bond and executions ought to have been returned according to the provision of the statute, and to have appeared as pleadings in the cause \u2014 and\n4th. That this is a statutory proceeding in derogation of the Common Law, and that a party proceeding under it should be held to a strict compliance with its provisions.\nOn the other hand it is insisted that there was a full compliance by the appellees with all the requirements of the statute. No authorities were cited on either side \u2014 no analagous. proceedings referred to.\nThe court fully recognizes the doctrine that where a summary remedy is given by statute, those who wish to avail themselves of it, must be confined strictly to its provisions, and shall take nothing by intendment. Logwood vs. Huntsville, 1 Minor\u2019s Alabama Reps. 23. Childress vs. McGehee, Ibid. 131. Crawford vs. State, Ibid. 143. Yancey vs. Hawkins, Ibid. 171. Young vs. Martin, 2 Yeates, 312 ; and that statutes in derogation of the common law are to be strictly construed. Commonwealth vs. Knobb, 9 Pick. 496. Lock vs. Miller, 3 Stew. & Port. 13. Melody vs. Reab, 4 Mass. 471-73. In giving a construction to a statute, the court must consider its policy and give it such an interpretation as may appear best calculated to advance its object by effectuating the design of the legislature. Allen vs. Parish, 3d Hammond, 198. The object here undoubtedly was a summary \u201c trial of the right of property,\u201d levied on without a resort to the technical rules of special pleading.\nWhat does the statute require ? We answer that it requires the claimant to make oath that the property levied on belongs to him, and to give bond with security, &c. , It also makes it the duty of the officer to return said execution to the next term of the court whence it issued, together with such affidavit and bond, and that a jury shall be sworn to try the right of property, and to give the plaintiff damages, &c.; and that the court shall give judgment for the amount of damages so found. These are all the requirements of the statute on the subject, and we are of opinion that these requirements were all substially (at least) complied with. The return of the executions, affidavit and bond were necessary to give the court jurisdiction in this case. McKnight vs. Smith, 5th Arkansas Reps. 410. The statute requires the officer to return them; but it is the interest as well as the duty of the claimant, to see that he does so. The return of these executions was essential to enable the Court to ascertain whether bond had been given according to law. It is not pretended that the bond and affidavit Were not duly returned ; but it is insisted that there is nothing to show that-the executions were thus returned. It appears, however, by the bill of exceptions in the record, that they were present and introduced as evidence on the trial of the right of property, by the claimant himself. The presumption therefore, is, that they were returned by the marshal according to law. The statute having made it his duty to return them, and being found in their proper place, it is to be presumed that they were properly returned, upon the principle that \u201c all things are presumed to be legitimately done till the contrary is proved.\u201d Coke Lit. 232. And this presumption is rendered a moral and legal certainty by the fact, that the parties, by their attorneys, appeared at the said trial in the court below, and that no objection \"was there taken to the return of the marshal, or to the jurisdiction of the Court for want of such return. The court below having jurisdiction of the subject matter and the parties before it, this Court will presume that all things necessary to give it jurisdiction had been done \u2014 nothing to the contrary appearing by the record. 5 Arkansas Reps. 411, 412. Thus far then, all that the statute requires to be done was done. We deem it unnecessary that the executions should appear as pleadings in the record. It is sufficient that they appear to have been duly returned. But if they should not thus appear, as the counsel for the claimant insists, whose duty was it to see that they did appear ?. The claimant was the actor in the court below.. The o\u00f1us probandi rested on him. He too, is the complainant in this Court, and it was incumbent on him to bring up a complete record. By the 7th rule of the practice, he was not entitled to be heard until a complete record was filed with the Clerk of this Court.\nThe only remaining question, and the more important one arises upon the error assigned \u2014 That there was no issue.\u201d But this we think is met by the peculiar provision of the statute, which declares that \u201c a jury shall be sworn to try the right of property,\u201d not to try the issue. Had the legislature intended that the strict rules of special pleading should be applied to this class of cases, the language would naturally have been \u201c a jury shall be sworn to try the issue,\u201d and the manner of making up that issue (it is reasonable to suppose) would have been prescribed, as it was in case of garnishees. The oath required to he administered to the jury is inapplicable to a formal traverse, and shows that the Legislature did not intend to prescribe one. The 7th section of the act of 15th Feb. 1834, to amend the (above cited) act concerning executions, contains the provision in relation to garnishees just alluded to. It declares that \u201c whenever any person garnisheed, as is provided for by the seventeenth section of the act to which this is an amendment, shall deny or fail to answer in accordance with the provisions of the said section, it shall be lawful for the plaintiff in execution to traverse the said denial or answer, and the issue so made up shall forthwith be submitted to a jury for their decision.\u201d Duval\u2019s Comp. p. 13. This repeals no portion of the former act, but adds to it, and is to be considered as a part of it, and both must be construed together. Pearce vs. Atwood, 13th Mass. Reps. 324, 344.\nThe legislature having had the subject of issue before it, in relation to one summary collateral proceeding, provided for by this statute, and having made no provision for such an issue in the case of a claim to property levied on by execution, is evidence that it did not consider a formal issue necessary in such a case, and we do not think such an issue is required in the case before us. This is not a solitary instance of the swearing of a jury without such an issue upon the record. It is done in all cases brought up by appeal from Justices of the Peace to the Circuit courts in which the trial is de novo. And in all cases of judgment by default for want of a plea in the Circuit Courts, where the sum claimed is not certain, and cannot be rendered certain by calculation, a jury is sworn to enquire of the damages. And upon a writ of ad quod damnum, a jury is sworn to assess the damages. In the the two classes of cases last mentioned, there is of course no issue.\nUpon the whole, we think there is no error in the judgment of the Court below, and it is'therefore affirmed with costs.\nPer Curiam.",
+        "type": "majority",
+        "author": "Douglas, C. Justice :"
+      }
+    ],
+    "attorneys": [
+      "A. E. Maxitlell, and Carmack, for claimant.",
+      "Thompson & Hagner, for Willis.",
+      "J. & L. Branch, for Moseley."
+    ],
+    "corrections": "",
+    "head_matter": "T. Lane Betton, Trustee of Sarah Ann Betton, Claimant, vs. Jesse H. Willis and William P. Moseley, Plaintiffs in Execution.\nWhen a claim to property has been interposed under the 9th and 10th sections of \u201c an act concerning executions,\u201d approved 17th February, 1833, it is the duty of the officer to return the affidavit and bond of claimant, and the execution levied, to the next term o\u00ed the Court whence the execution issued. But it is not necessary that the execution appear as a part of the pleadings in the cause ; and if the record shows that it was used in evidence at the trial of the right of property, it, will bo presumed to have been returned by the officer according to law.\nIn the trial of the right of property on a claim interposed, the statute does not require a formal issue : The jury are sworn \u201c to try the fight of property,\u201d and not \u201c to try the issue joined.\u201d\nThis ease, being a claim interposed under the statute to property levied on under executions in,favor of Willis and Moseley, was tried in the Superior Court for the late territory of Florida, at its Spring Term, 1845. A jury being sworn to try the right of property levied upon by plaintiffs in execution, returned the following verdict:\u2014 \u201c We, the jury, find the property claimed to be the property of Alfred M. Gatlin, deceased, in the hands of Luke G. Lamb, executor, to be administered, and liable and subject to these executions,\u201d and judgment was entered accordingly.\nAn appeal was taken and a Bill of Exceptions filed, which among other things, set forth the executions in favor of Willis and Moseley as having been introduced in evidence by claimant.\nThe facts are contained, at large, in the opinion of the Court.\nA. E. Maxitlell, and Carmack, for claimant.\nThompson & Hagner, for Willis.\nJ. & L. Branch, for Moseley."
+  },
+  "file_name": "0226-01",
+  "first_page_order": 266,
+  "last_page_order": 272
+}

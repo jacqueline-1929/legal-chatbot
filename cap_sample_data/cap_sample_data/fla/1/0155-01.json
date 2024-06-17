@@ -1,0 +1,66 @@
+{
+  "id": 8849188,
+  "name": "William D. Moseley and the Executor of Jesse H. Willis vs. John S. Shepherd",
+  "name_abbreviation": "Moseley v. Shepherd",
+  "decision_date": "1846-01",
+  "docket_number": "",
+  "first_page": "155",
+  "last_page": "160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 8575,
+    "ocr_confidence": 0.482,
+    "pagerank": {
+      "raw": 4.4916476050659184e-08,
+      "percentile": 0.281120443701544
+    },
+    "sha256": "264d25b50db0d9ad9b74080800acdd2f99f8b44092154c88aa40bcf2ddd3b151",
+    "simhash": "1:dc43eca2ca0be1d5",
+    "word_count": 1500
+  },
+  "last_updated": "2023-07-14T21:17:29.703459+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William D. Moseley and the Executor of Jesse H. Willis vs. John S. Shepherd."
+    ],
+    "opinions": [
+      {
+        "text": "Baltzem., Justice:\nTwo rules were taken in the Court below,' by different counsel,\" against John G, Camp, as follows: . \"\nJessse H. Willis, 1 vs. >\nLamb, Ex\u2019r of Gatlin, dec\u2019d. ) And now, on this 28th\" day of A* pril, 1845, on motion of Thompson & Hagner, of counsel for plaintiff, it is ordered, that John G. Camp, Esq., Marshal of the Middle Bis-trict, do show cause on to-morrow morning, why he should not pay over to the plaintiff in this execution, the moneys arising from the sale of the mules, and corn and fodder, sold on the 1st Monday of January last, as the property of the estate of Gatlin, under and by executions in his hands, against the executors of said estate.\nThe other rule- is entitled :\nW. D. Moseley, 1 Ex\u2019rs of Gatlin. )\nAnd was made by J. & L. O\u2019B. Branch, counsel for plaintiff, and is in other respects a copy of the former.\nThe Marshal, in return to this writ, says: \u201c He returns into Court the executions, No. 2887, &c., respectively issued at the suit of the Union Bank of Florida, against the executors of Gatlin, together with certain papers, and that he did, on the 16th May, 1844, levy upon said mules, corn and fodder, by virtue of said executions, and made sale thereof, to satisfy the same. That he\" holds the proceeds for the use and benefit of the assignee of the plaintiff in said suits respectively. All which he submits.\u201d\nAfterwards, on a day- which does not appear, the following order was made:\nJesse H. Willis, L. G. Lamb, Ex\u2019r of Gatlin. Wm. D. Moseley, J j n The rule upon the Marshal, J. G. Camp. . vs. The same.\nThis day came, as well the plaintiff in the above executions, as John S. Shepherd, assignee of the Union Bank of Florida, plaintiff in the several executions returned by the Marshal with his answer, by their respective attorneys; and the Court, having fully heard the evidence and argument of counsel, doth order and adjudge, that the moneys arising from the sales of the mules, and corn, and fodder, sold on the first Monday in January last, by the Marshal, properly belong, and are applicable to the executions in favor of the Union Bank of Florida,'against A. M. Gatlin\u2019s Executors, respectively, and therefore the Court discharges the said rules, with costs. From which order and judgment of the said Court, the said Jesse H. Willis and W. D. Moseley, prayed an appeal, which is granted them, upon their entering into bond, in the sum of one hundred dollars, conditioned for payment of costs and damages, on failure to prosecute their appeal with effect.\nAn appeal bond was executed and given, to the effect as follows;\nKnow all men by these presents, that we, Jesse. H, Willis, Wm. D. Moseley, are held and firmly bound unto John S. Shepherd, in the just and full sum of one hundred dollars, &c.\nThe condition is such that, whereas, on the 8th of May, 1845, in the matter of a rule on John G. Camp, Marshal, issued at the instance of said Jesse H. Willis and W. D. Moseley, the said Court considered, that the moneys arising from certain sales of personal property, belonged to sundry executions, wherein Union Bank of Florida, for the use of John S. Shepherd, assignee, is plaintiff, and the executors of A. M. Gatlin are defendants; and thereupon dismissed said rule, from which said Willis and Moseley appealed to the Court of Appeals. If, therefore, the said Willis and Moseley shall pay ihe costs and damages, &c., then the'obligation was to be void. ' \u2022 *\nA motion is made to dismiss this appeal, on the ground that it was irregularly taken.\nWithout adverting to the fact, that the bond is not made payable to Camp, the party to the suit, and against whom the rule was taken, it is sufficient, in the opinion of the Court, that the interests of these parties are separate, and that they cannot legally unite in a joint appeal bond. The rule is in the nature of a suit; and if these cases had been commenced by writ and declaration, they must have presented separate and distinct interests and rights. The dismissal of them by one order, in no sense makes them joint, or a joint judgment. Properly speaking, and in strictness, there should have been a separate order in each case ; but for brevity, as the same order may apply to several cases, their incorporation together has been permitted in practice, where the object of the Court could be equally attained by it. If the decision of the Court had been different, and for plaintiffs below, a separate order would have been requisite and indispensable. If the parties had succeeded, the judgment of the Court would have been, to pay to each the sum to which he might be found entitled, and his costs; and such would be the judgment of this Court, if the parties succeeded here upon their rules. In this latter event there would be two separate judgments in a common law case, and in favor of different parties, having distinct and opposing interests, which cannot, in our opinion, be according to the rules of law.\nAs the judgment of dismissal, stands now in the Court below, we are of opinion that separate executions ought to issue against each of the parties, for the costs in that Court.\nThe appeal will therefore be dismissed, with costs.",
+        "type": "majority",
+        "author": "Baltzem., Justice:"
+      }
+    ],
+    "attorneys": [
+      "Hagner & J. & L. Branch, for appellants, insisted :",
+      "Long <3f Walker, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "William D. Moseley and the Executor of Jesse H. Willis vs. John S. Shepherd.\nWhebe two separate and distinct rules are taken at the sanie time against the Marshal, which, after a joint trial, are dismissed by one order or judgment of the Court, the parties to the two rules cannot legally unite in one joint appeal bond; although the order or judgment allowed the parties an appeal upon their filing their appeal bond. In such a case, separate ^peals should be taken. \u00bb\nAppeal from the judgment of late Superior Court for Leon County.\nThe following tabular statement will show the different executions, which came to the hands of the Marshal, against the executors of A. M. Gatlin, and the endorsements on each of them:\nOn 28th April, -1845, Willis, plaintiff in execution, No. 2981, took a rule on the Marshal, to show cause why he should not pay over to him the moneys arising from sale of the mules, corn and fodder, sold on 1st Monday in January, under and by virtue of executions in his hand, as the property of the estate of Gatlin. On same day Moseley, plainti||in execution, No. 2985, took a similar rule.\nAfterwards the following judgment was entered :\n\u201c This day came as well the plaintiffs in the above executions, as John S. Shepherd, assignee of the Union Bank of Florida, plaintiff in the several executions returned by the Marshal with his answer, by their respective Attorneys. And the Court having fully heard the evidence, and argument of counsel, doth order and adjudge, that the moneys arising from the sales of the mules, and corn and fodder, sold on the .first.Monday in January last, by the Marshal,, properly belong, and are applicable .to the executions in favor of the Union Bank of Florida,' .against A. JVL Gatlin\u2019s executors, Nos. 2887, 2982, 2983 and 2994, respectively; and therefore the Court discharges the said rules with costs, &c. From which, order and judgment of the Court, the said Jesse H. Willis and W. D. Moseley, prayed an appeal, which is granted, them upon their entering bond in the sum of one hund red dollars, conditioned for the payment of all costs and damages, on fail ure of prosecuting their said appeal with effect; and upon motion of the said Willis an'd Moseley, seventy days is \u25a0 allowed them, within which to execute their said appeal bond.\u201d \u25a0 -\nWillis and Moseley accordingly filed their joint appeal bond. \u2022\nAppellee, by his counsel, mpved to dismiss the \u2022 appeal, because, among other reasons assigned, it'was taken jointly, and not separately.\nHagner & J. & L. Branch, for appellants, insisted :\nThe judgment of the Court being joint, the appeal was'necessarily taken jointly, and a joint appeal bond filed. That, under the judgment, it would have been irregular to have taken the appeal in any other way. If the Court below erred in rendering a joint judgment, instead of a seperate judgment on each of the rules, this of itself is sufficient ground for reversing this judgment; but not for a dismissal of the appeal;- , 1\nA dismissal of the appeal, because taken in accordance with the judgment which appellants are seeking to reverse, among other Reasons, because of the error in its being entered jointly, would be to deprive a party of all remedy for an injustice which is admitted \u2022 and the very error complained of, would preclude the judgment from being brought to this Court for reversal or correction. ,\nLong <3f Walker, for Appellee."
+  },
+  "file_name": "0155-01",
+  "first_page_order": 195,
+  "last_page_order": 200
+}

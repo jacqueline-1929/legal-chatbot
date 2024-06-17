@@ -1,0 +1,84 @@
+{
+  "id": 8849158,
+  "name": "Howse & Holloman vs. Mills Judson, et al.",
+  "name_abbreviation": "Howse & Holloman v. Judson",
+  "decision_date": "1846-01",
+  "docket_number": "",
+  "first_page": "133",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Fla. 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Bibb Rep. 292",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "case_ids": [
+        6684628
+      ],
+      "pin_cites": [
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/4/0292-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 347,
+    "char_count": 5947,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 1.649705560161243e-07,
+      "percentile": 0.6925133473032598
+    },
+    "sha256": "79e917fc18219cc7087cf062d4abca833b91257745681b054e758c6fa5a6e013",
+    "simhash": "1:2bbbf7b49fb27048",
+    "word_count": 1075
+  },
+  "last_updated": "2024-02-27T22:35:40.164291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Howse & Holloman vs. Mills Judson, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Douglas, Chief Justice: .\nThis case comes before-us, upon a motion made by the counsel for the defendants in error to dismiss it, upon the ground that the plaintiffs in error have not authorised the institution of the suit; and that the writ of error was prayed for, and is now prosecuted, without their privity or consent.\nThe motion is based upon the following statement of facts, which has been agreed to by the counsel for the defendants in error, and the counsel of William Forbes, who prosecutes this writ of error, and which is of file with the papers of this cause, viz :\n\u201c Judson & Co. obtained in the Gadsden Superior Court a judgment upon certiorari, against Howse & Holloman, which judgment, it is represented, is a lien upon certain real estate, subsequently purchased by one William Forbes, under a junior judgment, against one George W. Smith, the grantee of Howse & Holloman.\n\u201c Forbes now sues out this writ of error, as a party injured by the judgment, and who is to be benefited by a reversal of the same.\u201d\nThe question arising upon this state of facts is, \u201c Can he, Forbes, of his own right, in the name of Howse & Holloman, prosecute this writ of error.\u201d We think he cannot. It is a well established principle of law, to which no exception can, \u25a0 (it is believed,) be found, that \u201c no person can bring a writ of error to reverse a judgment, who was not a party, or privy to the record, or who was not injured by the judgment, and therefore to receive advantage by the reversal of it.\u201d 1 Rob. Ab. 747. Dyer 90. There is nothing in this statement of facts, to show that Forbes was injured by this judgment, or even that he is (n danger of being so injured. For aught that appears, Howse & Holloman have ample means which may be reached by an execution, to satisfy the judgment, without resort being had to the real estate purchased by Forbes, as set forth in this statement of facts ; and it would be the duty of the plaintiff in execution, to exhaust all the other property of the defendants that can be thus reached, before resorting to such as they may have bona fide conveyed away, and which the purchaser shall have taken in good faith, and for which he shall have paid a valuable consideration, after the rendition of the judgment; and were the plaintiffs to attempt to act otherwise, a Court of Equity would restrain them ; for although a judgment is by law a lien upon the lands of the defendant, yet' ho may, after judgment, convey a good title to real estate, if he has at all times afterwards a sufficient amount of property, subject to, and within reach of an execution, to satisfy the judgment; otherwise a judgment for one thousand dollars, (or even a much less sum,) might lock up all the real estate which the defendant might own, although it were worth a million of dollars. But the law is not thus unreasonable. We do not perceive, therefore, how Forbes is prejudiced by this judgment; and a party cannot maintain error, when not prejudiced by the judgment. 5 Reports 38. Tomlin\u2019s Law Dicty. Title Error 1. Hume vs. Long\u2019s Representatives, 6 Monroe\u2019s Reps. 118. Blight vs. McIlvoy, 4 Monroe\u2019s Reps. 147. Nor can we see how he would be benefited by its reversal; and surely he can have no right to interfere, to prevent the plaintiffs below from making their money out of other property of the defendants, which would be the direct effect of this proceeding, and especially of such reversal, if they have such other property out of which the money can be made.\nBut the more important objection to this proceeding on the part of Forbes is, that he was not a party or privy to this judgment. He acquired his interest after it was rendered, and when he was bound to take notice of it. He is therefore a mere volunteer and does not stand iu such a relation to the judgment, as enables him to prosecute this writ of error, even if the real estate which he purchased as stated, is endangered by the lien which it creates.\nThe general rule being, that \u201cnone but parties to the record or privies can maintain a writ of error.\u201d By privies are meant heirs, executors, administrators, terre tenants, those having an interest in remainder or reversion, or one who is made a party by the law, as he who comes in as a vouchee. 1 Rol. Ab. 748, 755. 1 Leon, 261,,\nTomlin\u2019s Law Diet, title error 1, page 649. Dale vs. Rosevelt, 8 Cowen\u2019s Rep. 333. Vanhorn vs. Frick, 3 Sergt. & Rawle Rep, 278. Fatteral vs. Floyd, 6 Sergt. & Rawle Rep. 315. Barr & Yeaser vs. Stevens, &c., 1 Bibb Rep. 292, 293.\nForbes does not stand in either of the relations above mentioned, nor was he made a party by the law.\nThe motion is therefore sustained, and the case dismissed.\nPer totam Curiam.",
+        "type": "majority",
+        "author": "Douglas, Chief Justice: ."
+      }
+    ],
+    "attorneys": [
+      "T. H. Hagner, for Forbes, who sued out writ of error.",
+      "C. H. DuPont, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Howse & Holloman vs. Mills Judson, et al.\nNo person can'bring a writ o\u00ed error to reverse a judgment who is not a party of privy to the record, or who is not injured by the judgment, and therefore to receive advantage by the reversal of it. '\nAlthough a judgment is by law a lien upon the land of the defendant, yet he may after the judgment convey good title, if he has at all times afterwards, a sufficient amount of property, subject to and within reach of an execution, to satisfy the judgment. \u2022\nA party purchasing land after the judgment wa3 rendered, and of which he was bound to take notice, does not stand in such a relation to the judgment as enables him to prosecute' a writ of error; even if the land purchased is endangered by the lien which it creates.\nThis case was brought up, by. writ of error, sued out by William Forbes, to Gadsden Circuit Court; defendants in error moved to dismiss the case upon the ground-that plaintiffs in error, have not authorized the institution of the suit, and that the writ of error Was prayed for and is now prosecuted without their privity or consent.\nThe opinion of the Court contains the facts as agreed 'to by counsel. '\nT. H. Hagner, for Forbes, who sued out writ of error.\nC. H. DuPont, for defendant."
+  },
+  "file_name": "0133-01",
+  "first_page_order": 173,
+  "last_page_order": 175
+}
